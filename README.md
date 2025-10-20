@@ -59,6 +59,7 @@ Aprendràs a:
 Aquestes seran las tasques que hi hauran en aquests projecte, poc a poc aquests apartat s'anirà actualitzant.
 
 - [Tasca 1](/tasca_01)
+- [Enllaç directe al planner](tasques/Productes/Documents/Kanban/enllaç_planner.md)
 
 ---
 
