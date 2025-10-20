@@ -51,3 +51,15 @@ Aprendràs a:
 - Prendre decisions sota pressió.
 - Coordinar-te amb l’equip.
 - I, sobretot, **mantenir la serenitat quan tot falla.**
+
+---
+
+## 📁 Tasques
+
+Aquestes seran las tasques que hi hauran en aquests projecte, poc a poc aquests apartat s'anirà actualitzant.
+
+- [Tasca 1](/tasca_01)
+
+---
+
+## Gràcies per visitar els meus repositoris!
