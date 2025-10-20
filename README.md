@@ -1,1 +1,1 @@
-# Projecte3_EverPia2
+fer resum del projecte 3  
