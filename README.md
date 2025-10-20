@@ -5,8 +5,6 @@ Després de l’èxit d’EverPia 1, la consultora ha crescut i ara gestiona ser
 Els tècnics júnior (vosaltres) sou ara responsables de mantenir viva la infraestructura mentre tot pot fallar en qualsevol moment.  
 És una **simulació realista** del dia a dia dins d’una empresa IT: caos, incidències, tickets i documentació constant.
 
-> “Quan tot funciona… és que no ho has mirat prou bé.”
-
 ---
 
 ## 🎯 Missió del Projecte
@@ -17,8 +15,6 @@ L’objectiu és demostrar la capacitat per:
 - Gestionar serveis essencials com **DNS, LDAP, LVM, etc.**  
 - Aplicar **metodologies àgils** i rigor tècnic.  
 - Mantenir la calma sota pressió i treballar en equip.
-
-> EverPia 2 no tracta només de configurar servidors: tracta d’aprendre a **entendre, prevenir i comunicar**.
 
 ---
 
@@ -38,8 +34,6 @@ L’objectiu és demostrar la capacitat per:
 A EverPia 2 ja **no hi ha professors**: hi ha **caps de projecte, companys de suport tècnic i clients exigents**.  
 Cada error és una lliçó; cada “pantalla blava” és un examen de serenitat; cada incidència resolta és una petita victòria.
 
-> “Si sobrevius a això… pots sobreviure a qualsevol empresa.”
-
 ---
 
 ## ⚙️ Metodologia
@@ -57,6 +51,3 @@ Aprendràs a:
 - Prendre decisions sota pressió.
 - Coordinar-te amb l’equip.
 - I, sobretot, **mantenir la serenitat quan tot falla.**
-
-> 🔥 “Quan els servidors cremen, vosaltres sou els bombers digitals.”  
-> 🧯 Benvinguts a EverPia 2.
