@@ -1,6 +1,7 @@
 # Tasca 01 – Gestió Segura de Contrasenyes
 
 **Autor/a:** Pol Serrano Aromí
+
 **Data:** 20/10/2025
 
 ## Descripció
