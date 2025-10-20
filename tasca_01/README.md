@@ -21,4 +21,4 @@ La tasca es divideix en dues fases:
 ## Lliurament
 - [informe](./informe.md): Anàlisi tècnica i justificació.  
 - [guia](./guia.md): Guia tècnica per al personal.  
-- Carpeta [imgatges](./img/): Conté les captures utilitzades a la guia.
+- Carpeta [imatges](./img/): Conté les captures utilitzades a la guia.
