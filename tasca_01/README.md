@@ -19,6 +19,6 @@ La tasca es divideix en dues fases:
    - Captures de pantalla i bones pràctiques de seguretat.
 
 ## Lliurament
-- [`informe.md`](./informe.md): Anàlisi tècnica i justificació.  
-- [`guia.md`](./guia.md): Guia tècnica per al personal.  
-- Carpeta [`img/`](./img/): Conté les captures utilitzades a la guia.
+- [informe](./informe.md): Anàlisi tècnica i justificació.  
+- [guia](./guia.md): Guia tècnica per al personal.  
+- Carpeta [imgatges](./img/): Conté les captures utilitzades a la guia.
