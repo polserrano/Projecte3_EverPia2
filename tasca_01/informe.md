@@ -5,7 +5,7 @@
 ---
 ### 1. Introducció i Justificació:
 #### Per què les contrasenyes febles o reutilitzades són un risc?
-Les contrasenyes febles o reutilitzades són un gran error, ja que si ens posem en el cas de que un ciberdelinqüent la descobreix, i de sobte té accés a tota la teva correspondència, als teus comptes de xarxes socials i fins i tot a informació més crítica, com dades bancàries. Aquest tipus d’atacs no són teòrics ni distants, passen cada dia, i el resultat pot ser devastador: des del robatori d’identitat fins a la pèrdua de dades sensibles.
+Les contrasenyes febles o reutilitzades són un gran error, ja que si ens posem en el cas, de que un ciberdelinqüent la descobreix, i de sobte té accés a tota la teva correspondència, als teus comptes de xarxes socials i fins i tot a informació més crítica, com dades bancàries. Aquest tipus d’atacs no són teòrics ni distants, passen cada dia, i el resultat pot ser devastador: des del robatori d’identitat fins a la pèrdua de dades sensibles.
 
 A més, la reutilització de contrasenyes agreuja encara més el problema. Els ciberdelinqüents sovint utilitzen tècniques de credential **stuffing**, que consisteixen a prendre combinacions d'usuari i contrasenya filtrades d'altres fuites de dades i provar-les en diferents serveis i comptes.
 
