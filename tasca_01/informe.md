@@ -3,7 +3,7 @@
 - **Data:** 21/10/2025
 
 ---
-### 1. Introducció i Justificació:
+### 🠲 1. Introducció i Justificació:
 #### Per què les contrasenyes febles o reutilitzades són un risc?
 Les contrasenyes febles o reutilitzades són un gran error, ja que si ens posem en el cas, de que un ciberdelinqüent la descobreix, i de sobte té accés a tota la teva correspondència, als teus comptes de xarxes socials i fins i tot a informació més crítica, com dades bancàries. Aquest tipus d’atacs no són teòrics ni distants, passen cada dia, i el resultat pot ser devastador: des del robatori d’identitat fins a la pèrdua de dades sensibles.
 
@@ -23,40 +23,40 @@ La funció crucial d’un gestor de contrasenyes per mitigar riscos és garantir
 En conclusió, un gestor de contrasenyes és molt útil per a empreses o persones per per acabar de assegurar totes les seves contrasenyes de qualsevol pàgina o aplicació.
 
 ---
-### 2. Comparativa Tècnica:
+### 🠲 2. Comparativa Tècnica:
 
 ---
-### 3. Avantatges i inconvenients:
+### 🠲 3. Avantatges i inconvenients:
 
 A continuació us mostrare las avantatges i inconvenients de cada model, online i offline, desde un punt de vista seguretat, usabilitat i continuïtat del negoci:
 
 **3.3 Bitwarden (Solució en línia / Núvol)**
 
-**3.3.1 / Avantatges**
+**3.3.1 - Avantatges**
 
-Codi obert i seguretat robusta: Utilitza xifratge AES-256 amb arquitectura zero-knowledge, garantint que només l'usuari pot accedir a les seves dades. 
+- **Codi obert i seguretat:** Utilitza xifratge AES-256 amb arquitectura knowledge, garantint que només l'usuari pot accedir a les seves dades. 
 
-Sincronització automàtica entre dispositius: Permet l'accés a les contrasenyes des de qualsevol dispositiu amb connexió a Internet. 
+- **Sincronització entre dispositius:** Permet l'accés a les contrasenyes des de qualsevol dispositiu amb connexió a Internet. 
 
-Pla gratuït generós: Inclou emmagatzematge il·limitat de contrasenyes i sincronització entre dispositius. 
+- **Pla gratuït generós:** Inclou emmagatzematge il·limitat de contrasenyes i sincronització entre dispositius. 
 
-Funcionalitats avançades per a usuaris premium: Inclou autenticació de dos factors, accés d'emergència i emmagatzematge segur de fitxers. 
+- **Funcions per a usuaris premium:** Inclou autenticació de dos factors, accés d'emergència i emmagatzematge segur de fitxers. 
 
-Opció d'auto-hospedatge: Permet als usuaris avançats o organitzacions allotjar el servei en els seus propis servidors per un control total. 
+- **Opció d'auto-hospedatge:** Permet als usuaris o organitzacions allotjar el servei en els seus propis servidors per un control total. 
 
-**3.3.2 / Inconvenients**
+**3.3.2 - Inconvenients**
 
-- **Interfície d'usuari poc intuïtiva:** Alguns usuaris troben que les funcions d'auto-ompliment i auto-desar requereixen diversos clics i no són tan fluides com en altres gestors. 
+- **Interfície:** Alguns usuaris troben que les funcions d'ompliment i auto-desar requereixen varios clics i no són tan fluides com en altres. 
 
-- **Sincronització limitada en el pla gratuït:** Algunes funcions avançades, com la sincronització entre dispositius, poden estar restringides en el pla gratuït. 
+- **Limitació en el pla gratuït:** Algunes funcions com la sincronització entre dispositius, poden estar restringides en el pla gratuït. 
 
 - **Manca de funcions avançades:** Algunes funcions com alertes de phishing o ompliment automàtic d'adreces poden no estar disponibles.
 
-- **Problemes amb l'exportació de contrasenyes:** Alguns usuaris han reportat problemes amb la funció d'exportació de contrasenyes, incloent-hi la pèrdua de dades. 
+- **Problemes amb l'exportació de contrasenyes:** Usuaris han reportat problemes amb la funció d'exportació, incloent-hi la pèrdua de dades. 
 
 **3.4 KeePassXC (Solució local / Escriptori)**
 
-**3.4.1 / Avantatges**
+**3.4.1 - Avantatges**
 
 - **Emmagatzematge local i control total:** Les dades es guarden en un fitxer .kdbx xifrat localment, sense necessitat de connexió a Internet. 
 
@@ -64,23 +64,23 @@ Opció d'auto-hospedatge: Permet als usuaris avançats o organitzacions allotjar
 
 - **Funcionalitats avançades:** Inclou generació de contrasenyes d'un sol ús (TOTP), integració amb SSH-agent i autocompletar amb teclat. 
 
-- **Portabilitat del fitxer de base de dades:** El fitxer .kdbx es pot emmagatzemar en dispositius USB o serveis de núvol per facilitar l'accés des de diferents dispositius. 
+- **Portabilitat del fitxer de base de dades:** El fitxer .kdbx es pot emmagatzemar en dispositius USB o serveis de núvol per facilitar l'accés. 
 
-**3.4.2 / Inconvenients**
+**3.4.2 - Inconvenients**
 
-- **Sincronització manual:** Requereix configuració manual per sincronitzar entre dispositius, amb el risc de conflictes si es modifica en diversos llocs. 
+- **Sincronització manual:** Requereix configuració manual per sincronitzar entre dispositius, amb el risc de conflictes si es modifica. 
 
 - **Manca d'aplicacions mòbils:** No disposa d'aplicacions mòbils oficials, els usuaris han de confiar en aplicacions de tercers per a mòbils. 
 
-- **Curva d'aprenentatge més pronunciada:** Algunes funcions avançades poden ser difícils de configurar per a usuaris sense experiència tècnica. 
+- **Curva d'aprenentatge més pronunciada:** Algunes funcions avançades poden ser difícils de configurar per a usuaris sense experiència. 
 
 - **Sense mecanismes de recuperació:** En cas de pèrdua de la contrasenya mestra, no hi ha mecanismes de recuperació. 
 
 ---
-### 4. Recomanació Final:
+### 🠲 4. Recomanació Final:
 
 ---
-### 5. Webgrafia
+### 🠲 5. Webgrafia
 
 - **1/** https://www.incibe.es/ciudadania/blog/gestores-de-contrasenas-como-funcionan
 - **2/** https://www.keepersecurity.com/blog/es/2025/07/18/8-features-to-look-for-in-a-password-manager/
