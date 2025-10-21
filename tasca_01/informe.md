@@ -30,7 +30,55 @@ En conclusió, un gestor de contrasenyes és molt útil per a empreses o persone
 
 A continuació us mostrare las avantatges i inconvenients de cada model, online i offline, desde un punt de vista seguretat, usabilitat i continuïtat del negoci:
 
-3.3 Bitwarden (Solució en línia / Núvol)
+**3.3 Bitwarden (Solució en línia / Núvol)**
+
+**3.3.1 / Avantatges**
+
+Codi obert i seguretat robusta: Utilitza xifratge AES-256 amb arquitectura zero-knowledge, garantint que només l'usuari pot accedir a les seves dades. 
+
+Sincronització automàtica entre dispositius: Permet l'accés a les contrasenyes des de qualsevol dispositiu amb connexió a Internet. 
+
+Pla gratuït generós: Inclou emmagatzematge il·limitat de contrasenyes i sincronització entre dispositius. 
+
+Funcionalitats avançades per a usuaris premium: Inclou autenticació de dos factors, accés d'emergència i emmagatzematge segur de fitxers. 
+
+Opció d'auto-hospedatge: Permet als usuaris avançats o organitzacions allotjar el servei en els seus propis servidors per un control total. 
+
+**3.3.2 / Inconvenients**
+
+Interfície d'usuari poc intuïtiva: Alguns usuaris troben que les funcions d'auto-ompliment i auto-desar requereixen diversos clics i no són tan fluides com en altres gestors. 
+SelectHub
+
+Sincronització limitada en el pla gratuït: Algunes funcions avançades, com la sincronització entre dispositius, poden estar restringides en el pla gratuït. 
+SelectHub
+
+Manca de funcions avançades: Algunes funcions com alertes de phishing o ompliment automàtic d'adreces poden no estar disponibles. 
+SelectHub
+
+Problemes amb l'exportació de contrasenyes: Alguns usuaris han reportat problemes amb la funció d'exportació de contrasenyes, incloent-hi la pèrdua de dades. 
+joinsecret.com
+
+**3.4 KeePassXC (Solució local / Escriptori)**
+
+**3.4.1 / Avantatges**
+
+- Emmagatzematge local i control total: Les dades es guarden en un fitxer .kdbx xifrat localment, sense necessitat de connexió a Internet. 
+
+- Codi obert i seguretat millorada: Utilitza xifratge AES-256 amb derivació de clau Argon2, garantint una protecció robusta. 
+
+- Funcionalitats avançades: Inclou generació de contrasenyes d'un sol ús (TOTP), integració amb SSH-agent i autocompletar amb teclat. 
+
+- Portabilitat del fitxer de base de dades: El fitxer .kdbx es pot emmagatzemar en dispositius USB o serveis de núvol per facilitar l'accés des de diferents dispositius. 
+
+**3.4.2 / Inconvenients**
+
+- **Sincronització manual:** Requereix configuració manual per sincronitzar entre dispositius, amb el risc de conflictes si es modifica en diversos llocs. 
+
+- **Manca d'aplicacions mòbils:** No disposa d'aplicacions mòbils oficials, els usuaris han de confiar en aplicacions de tercers per a mòbils. 
+
+- **Curva d'aprenentatge més pronunciada:** Algunes funcions avançades poden ser difícils de configurar per a usuaris sense experiència tècnica. 
+
+- **Sense mecanismes de recuperació:** En cas de pèrdua de la contrasenya mestra, no hi ha mecanismes de recuperació. 
 
 ---
 ### 4. Recomanació Final:
