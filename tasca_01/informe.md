@@ -41,3 +41,8 @@ En conclusió, un gestor de contrasenyes és molt útil per a empreses o persone
 - **5/** https://www.passwordmanager.com/bitwarden-vs-keepass/
 - **6/** https://www.wizcase.com/blog/bitwarden-vs-keepass/
 - **7/** https://www.ticges.com/els-errors-que-cometem-amb-les-contrasenyes-estas-segur-que-la-teva-es-segura/
+
+---
+## Gràcies per la vostra atencio!
+
+- 
