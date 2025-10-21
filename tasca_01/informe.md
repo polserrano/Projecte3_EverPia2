@@ -53,8 +53,6 @@ A continuació us mostrare las avantatges i inconvenients de cada model, online 
 
 - **Funcions per a usuaris premium:** Inclou autenticació de dos factors, accés d'emergència i emmagatzematge segur de fitxers. 
 
-- **Opció d'auto-hospedatge:** Permet als usuaris o organitzacions allotjar el servei en els seus propis servidors per un control total. 
-
 **3.3.2 - Inconvenients**
 
 - **Interfície:** Alguns usuaris troben que les funcions d'ompliment i auto-desar requereixen varios clics i no són tan fluides com en altres. 
@@ -90,6 +88,7 @@ A continuació us mostrare las avantatges i inconvenients de cada model, online 
 ---
 ### 🠲 4. Recomanació Final:
 
+Un cop haguim vist 
 ---
 ### 🠲 5. Webgrafia
 
