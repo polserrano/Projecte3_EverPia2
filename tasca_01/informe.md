@@ -45,4 +45,4 @@ En conclusió, un gestor de contrasenyes és molt útil per a empreses o persone
 ---
 ## Gràcies per la vostra atencio!
 
-- 
+- [Torna a la pàgina principal](../)
