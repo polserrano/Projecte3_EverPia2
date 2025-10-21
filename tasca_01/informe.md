@@ -14,11 +14,11 @@ Aquestes vulnerabilitats no només poden permetre l'accés no autoritzat a dades
 ### La importància d’una bona gestió de les contrasenyes
 La funció crucial d’un gestor de contrasenyes per mitigar riscos és garantir la seguretat i la gestió eficient de les credencials d’accés. Concretament, això implica:
 
-**Generació de contrasenyes fortes i úniques:** Els gestors creen contrasenyes complexes, difícils de desxifrar, que es poden utilitzar exclusivament per a cada compte, evitant l’ús repetitiu.
+- **Generació de contrasenyes fortes i úniques:** Els gestors creen contrasenyes complexes, difícils de desxifrar, que es poden utilitzar exclusivament per a cada compte, evitant l’ús repetitiu.
 
-**Emmagatzematge xifrat:** Les contrasenyes es guarden de manera xifrada dins del gestor, protegint-les contra accés no autoritzat i minimitzant el risc de robatori.
+- **Emmagatzematge xifrat:** Les contrasenyes es guarden de manera xifrada dins del gestor, protegint-les contra accés no autoritzat i minimitzant el risc de robatori.
 
-**Facilitar l’autenticació:** Amb l’autocompletat i la sincronització entre dispositius, permeten als usuaris accedir fàcilment als seus comptes sense haver de recordar o anotar contrasenyes.
+- **Facilitar l’autenticació:** Amb l’autocompletat i la sincronització entre dispositius, permeten als usuaris accedir fàcilment als seus comptes sense haver de recordar o anotar contrasenyes.
 
 En conclusió, un gestor de contrasenyes és molt útil per a empreses o persones per per acabar de assegurar totes les seves contrasenyes de qualsevol pàgina o aplicació.
 
