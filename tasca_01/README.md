@@ -1,10 +1,11 @@
 # Tasca 01 – Gestió Segura de Contrasenyes
 
-**Autor/a:** Pol Serrano Aromí
+- **Autor/a:** Pol Serrano Aromí
+- **Data:** 20/10/2025
 
-**Data:** 20/10/2025
+---
 
-## Descripció
+## Descripció de la tasca:
 Aquesta tasca respon a una situació de crisi dins l’empresa *EverPia*, que ha patit una fuita d’informació causada per l’ús de contrasenyes febles o reutilitzades.  
 Com a mesura de resposta, s’ha decidit implantar l’ús d’un **gestor de contrasenyes** per al personal tècnic.
 
