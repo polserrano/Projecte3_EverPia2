@@ -28,6 +28,10 @@ En conclusió, un gestor de contrasenyes és molt útil per a empreses o persone
 ---
 ### 3. Avantatges i inconvenients:
 
+A continuació us mostrare las avantatges i inconvenients de cada model, online i offline, desde un punt de vista seguretat, usabilitat i continuïtat del negoci:
+
+3.3 Bitwarden (Solució en línia / Núvol)
+
 ---
 ### 4. Recomanació Final:
 
