@@ -9,7 +9,7 @@ Les contrasenyes febles o reutilitzades són un gran error, ja que si ens posem 
 
 A més, la reutilització de contrasenyes agreuja encara més el problema. Els ciberdelinqüents sovint utilitzen tècniques de credential **stuffing**, que consisteixen a prendre combinacions d'usuari i contrasenya filtrades d'altres fuites de dades i provar-les en diferents serveis i comptes.
 
-Aquestes vulnerabilitats no només poden permetre l'accés no autoritzat a dades sensibles, sinó que també poden provocar interrupcions en el funcionament de l'empresa, pèrdues econòmiques i greus danys a la reputació corporativa. Per això, és fonamental implementar polítiques estrictes de **gestió de contrasenyes**, com l’ús de **contrasenyes fortes**, **l’autenticació multifactor** i més.
+Aquestes vulnerabilitats no només poden permetre l'accés no autoritzat a dades sensibles, sinó que també poden provocar interrupcions en el funcionament de l'empresa, pèrdues econòmiques i greus danys a la reputació. Per això, és fonamental implementar polítiques de **gestió de contrasenyes**, com l’ús de **contrasenyes fortes**, **l’autenticació multifactor** i més.
 
 ### La Importància d’Una Bona Gestió de les Contrasenyes
 La funció crucial d’un gestor de contrasenyes per mitigar riscos és garantir la seguretat i la gestió eficient de les credencials d’accés. Concretament, això implica:
