@@ -46,29 +46,25 @@ Opció d'auto-hospedatge: Permet als usuaris avançats o organitzacions allotjar
 
 **3.3.2 / Inconvenients**
 
-Interfície d'usuari poc intuïtiva: Alguns usuaris troben que les funcions d'auto-ompliment i auto-desar requereixen diversos clics i no són tan fluides com en altres gestors. 
-SelectHub
+- **Interfície d'usuari poc intuïtiva:** Alguns usuaris troben que les funcions d'auto-ompliment i auto-desar requereixen diversos clics i no són tan fluides com en altres gestors. 
 
-Sincronització limitada en el pla gratuït: Algunes funcions avançades, com la sincronització entre dispositius, poden estar restringides en el pla gratuït. 
-SelectHub
+- **Sincronització limitada en el pla gratuït:** Algunes funcions avançades, com la sincronització entre dispositius, poden estar restringides en el pla gratuït. 
 
-Manca de funcions avançades: Algunes funcions com alertes de phishing o ompliment automàtic d'adreces poden no estar disponibles. 
-SelectHub
+- **Manca de funcions avançades:** Algunes funcions com alertes de phishing o ompliment automàtic d'adreces poden no estar disponibles.
 
-Problemes amb l'exportació de contrasenyes: Alguns usuaris han reportat problemes amb la funció d'exportació de contrasenyes, incloent-hi la pèrdua de dades. 
-joinsecret.com
+- **Problemes amb l'exportació de contrasenyes:** Alguns usuaris han reportat problemes amb la funció d'exportació de contrasenyes, incloent-hi la pèrdua de dades. 
 
 **3.4 KeePassXC (Solució local / Escriptori)**
 
 **3.4.1 / Avantatges**
 
-- Emmagatzematge local i control total: Les dades es guarden en un fitxer .kdbx xifrat localment, sense necessitat de connexió a Internet. 
+- **Emmagatzematge local i control total:** Les dades es guarden en un fitxer .kdbx xifrat localment, sense necessitat de connexió a Internet. 
 
-- Codi obert i seguretat millorada: Utilitza xifratge AES-256 amb derivació de clau Argon2, garantint una protecció robusta. 
+- **Codi obert i seguretat millorada:** Utilitza xifratge AES-256 amb derivació de clau Argon2, garantint una protecció robusta. 
 
-- Funcionalitats avançades: Inclou generació de contrasenyes d'un sol ús (TOTP), integració amb SSH-agent i autocompletar amb teclat. 
+- **Funcionalitats avançades:** Inclou generació de contrasenyes d'un sol ús (TOTP), integració amb SSH-agent i autocompletar amb teclat. 
 
-- Portabilitat del fitxer de base de dades: El fitxer .kdbx es pot emmagatzemar en dispositius USB o serveis de núvol per facilitar l'accés des de diferents dispositius. 
+- **Portabilitat del fitxer de base de dades:** El fitxer .kdbx es pot emmagatzemar en dispositius USB o serveis de núvol per facilitar l'accés des de diferents dispositius. 
 
 **3.4.2 / Inconvenients**
 
