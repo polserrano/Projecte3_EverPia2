@@ -34,10 +34,10 @@ En conclusió, un gestor de contrasenyes és molt útil per a empreses o persone
 ---
 ### Webgrafia
 
-- 1/ https://www.incibe.es/ciudadania/blog/gestores-de-contrasenas-como-funcionan
-- 2/ https://www.keepersecurity.com/blog/es/2025/07/18/8-features-to-look-for-in-a-password-manager/
-- 3/ https://es.wikipedia.org/wiki/Bitwarden
-- 4/ https://es.wikipedia.org/wiki/KeePassX
-- 5/ https://www.passwordmanager.com/bitwarden-vs-keepass/
-- 6/ https://www.wizcase.com/blog/bitwarden-vs-keepass/
-- 7/ https://www.ticges.com/els-errors-que-cometem-amb-les-contrasenyes-estas-segur-que-la-teva-es-segura/
+- **1/** https://www.incibe.es/ciudadania/blog/gestores-de-contrasenas-como-funcionan
+- **2/** https://www.keepersecurity.com/blog/es/2025/07/18/8-features-to-look-for-in-a-password-manager/
+- **3/** https://es.wikipedia.org/wiki/Bitwarden
+- **4/** https://es.wikipedia.org/wiki/KeePassX
+- **5/** https://www.passwordmanager.com/bitwarden-vs-keepass/
+- **6/** https://www.wizcase.com/blog/bitwarden-vs-keepass/
+- **7/** https://www.ticges.com/els-errors-que-cometem-amb-les-contrasenyes-estas-segur-que-la-teva-es-segura/
