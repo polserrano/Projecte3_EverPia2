@@ -25,6 +25,17 @@ En conclusió, un gestor de contrasenyes és molt útil per a empreses o persone
 ---
 ### 🠲 2. Comparativa Tècnica:
 
+Seguidament us mostrare un taula on us mostrare comparacions entre Bitwarden (núvol i online) i KeePassXC (Offline/Escriptori)
+
+| Característica | Bitwarden (Online/Núvol) | KeePassXC (Offline/Escriptori) |
+| ----- | ----- | ----- |
+| **Sincronització** | Accés en diversos dispositius (escriptori, mòbil, extensió navegador, web) amb sincronització automàtica a través del núvol de Bitwarden. | No hi ha un servei de sincronització en el núvol propi. L’arxiu de la base de dades es guarda local. |
+| **Model de seguretat** | Xifratge (E2E) i arquitectura de “zero‑knowledge”: les dades es xifren localment al dispositiu abans d’enviar‑se al servidor, i només l’usuari té la clau.  | L’arxiu de la base de dades (.kdbx) està xifrat localment ( AES‑256). No hi ha necessitat de servidor extern obligatori i l’usuari té control complet de l’arxiu. |
+| **Accés des de múltiples dispositius** | Molt fàcil: apps disponibles per a mòbil (iOS, Android), escriptori (Windows, macOS, Linux), extensions de navegador i servei web. Permet sincronitzar automàticament entre ells. | Hi ha versió per a Windows, macOS, Linux. Pero l’accés des de múltiples dispositius requereix que tu provis la sincronització de l’arxiu base. No hi ha sincronització automàtica integrada. |
+| **Emmagatzematge local** | Depèn del núvol (els servidors de Bitwarden). L’avantatge és comoditat de sincronització, però requereix confiar en servei extern. | Emmagatzematge local principal: l’arxiu .kdbx resideix en la teva màquina o en un servei de núvol que tu trïis. No depèn de cap servidor extern del gestor. |
+| **Plans** | Té un pla gratuït: emmagatzematge, dispositius i sincronització il·limitats. Versió Premium per \~9€/any que afegeix funcions com adjunts xifrats, autenticador integrat, informes de salut del “vault”. | És completament Gratuït i Open Source. No hi ha cap cost d’ús del programari en sí. No hi ha subscripció en el nucli del producte. És suportat per comunitat i donacions. |
+
+
 ---
 ### 🠲 3. Avantatges i inconvenients:
 
