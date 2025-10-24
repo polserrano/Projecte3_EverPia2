@@ -69,13 +69,13 @@
 3. Quan visitis una pàgina d’inici de sessió, Bitwarden detectarà les credencials automàticament.  
 4. Prem la icona de Bitwarden i selecciona **“Autofill”**.
 
-💡 *Drecera útil:*  
+*Drecera útil:*  
 - **Windows:** `Ctrl + Shift + L`  
 - **Mac:** `Cmd + Shift + L`
 
 ---
 
-## 🔹 4. Gestió de Còpies de Seguretat (Backup)
+## 4. Gestió de Còpies de Seguretat (Backup)
 
 ### 4.1 Crear una Còpia de Seguretat
 1. Ves a: adaalt esquerra, fitxer --> Exporta caixa forta
@@ -85,13 +85,13 @@
 ### 4.2 Bones Pràctiques de Seguretat
 - **Mai** guardis l’arxiu d’exportació en text pla a l’ordinador.  
 - Desa’l en un suport segur com:
-  - 🔐 **Clau USB xifrada**
-  - ☁️ **Emmagatzematge al núvol amb xifratge (Tresorit, Proton Drive, OneDrive xifrat)**  
+  - **Clau USB xifrada**
+  - **Emmagatzematge al núvol amb xifratge (Tresorit, Proton Drive, OneDrive xifrat)**  
 - Actualitza la còpia de seguretat **cada mes** o després de canvis importants.
 
 ---
 
-## 🔹 5. Resum de Bones Pràctiques
+## 5. Resum de Bones Pràctiques
 
 | Acció | Recomanació |
 |-------|--------------|
