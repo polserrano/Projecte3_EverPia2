@@ -79,7 +79,9 @@
 1. Ves a dalt esquerra del software, fitxer --> Exporta caixa forta
 2. Tria el format **.json** o **.csv**.
 3. Posem la contrasenya maestra anteriorment creada quan hem creat la conta.
-4. Desa l’arxiu en una ubicació segura o un dispostiu extern personal (Disc durs, pendrive, ....  
+4. Desa l’arxiu en una ubicació segura o un dispostiu extern personal (Disc durs, pendrive, ...)  
+
+![imatge7](/tasca_01/img/imatge_07.png)
 
 ### 4.2 Bones Pràctiques de Seguretat
 - **Mai** guardis l’arxiu d’exportació en text pla a l’ordinador.  
@@ -89,4 +91,6 @@
 - Actualitza la còpia de seguretat **cada mes** o després de canvis importants.
 
 ---
+
+
 
