@@ -40,6 +40,7 @@
    - Incloure: majúscules, minúscules, números i símbols
 4. Desa o copia la contrasenya directament en una entrada del voltant.
 
+![imatge3](/tasca_01/img/imatge_03.png)
 ---
 
 ## 🔹 3. Exemples d’Ús i Emplenament Automàtic
