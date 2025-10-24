@@ -54,6 +54,8 @@
    - **URL:** `https://mail.google.com` o el servei corresponent  
 3. Prem **Save**.
 
+![imatge4](/tasca_01/img/imatge_04.png)
+
 ### 3.2 Desar una Credencial d’una Aplicació o Servei Web
 1. Repiteix el procés anterior per serveis com **Jira**, **Trello**, **CRM**, etc.  
 2. Pots afegir notes addicionals (departament, permisos, etc.).
