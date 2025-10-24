@@ -60,6 +60,8 @@
 1. Repiteix el procés anterior per serveis com **Jira**, **Trello**, **CRM**, etc.  
 2. Pots afegir notes addicionals (departament, permisos, etc.).
 
+![imatge5](/tasca_01/img/imatge_05.png)
+
 ### 3.3 Ús de l’Extensió del Navegador
 1. Instal·la l’extensió des de [https://bitwarden.com/download/](https://bitwarden.com/download/).  
 2. Inicia sessió amb el teu compte.  
