@@ -70,7 +70,7 @@
 
 ![imatge6](/tasca_01/img/imatge_06.png)
 
-PD: No puc instal·lar la extensió perquè amb el conte del cole, no puc per permisos de administrador.
+- PD: No puc instal·lar la extensió perquè amb el conte del cole, no puc per permisos de administrador.
 ---
 
 ## 🠲 4. Gestió de Còpies de Seguretat (Backup)
