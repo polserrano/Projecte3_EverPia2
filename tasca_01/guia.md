@@ -14,21 +14,21 @@
   
 ![imatge1](/tasca_01/img/imatge_01.png)
 
-3. Instal·la també l’**extensió del navegador** (Chrome, Firefox, Edge, Brave, Opera).
-
 ### 1.2 Creació del Compte Mestre
 1. Obre Bitwarden i selecciona **“Create Account”**.  
 2. Introdueix:
    - Correu electrònic corporatiu  
-   - Contrasenya mestra **(mínim 12 caràcters amb majúscules, minúscules, números i símbols)**  
+   - Contrasenya mestra **(haura de tenim min 12 caràcters amb mayus, minúscules, números i símbols)**  
 3. Accepta els termes i prem **“Submit”**.  
-4. Inicia sessió amb el teu compte.  
-5. (Opcional) Activa la **Verificació en dos passos (2FA)**:  
-   - *Settings → Two-step Login*  
+4. Inicia sessió amb el teu compte.
+
+
+
+6. Una recomanació que us donc, és habilitar el factor de autentificació (2FA)
 
 ---
 
-## 🔹 2. Generació de Contrasenyes Segures
+## 2. Generació de Contrasenyes Segures
 
 ### 2.1 Ús del Generador de Contrasenyes
 1. Al panell principal, fes clic a la icona de **“Generador”** (🔑).  
