@@ -64,11 +64,13 @@
 ![imatge5](/tasca_01/img/imatge_05.png)
 
 ### 3.3 Ús de l’Extensió del Navegador
-1. Instal·la l’extensió des de https://bitwarden.com/download/
-2. Inicia sessió amb el teu compte.  
+1. Instal·larem l’extensió des de https://bitwarden.com/download/
+2. Li donarem a extensió del navegador
 3. Quan visitis una pàgina d’inici de sessió, Bitwarden detectarà les credencials automàticament.  
-4. Prem la icona de Bitwarden i selecciona **“Autofill”**.
 
+![imatge6](/tasca_01/img/imatge_06.png)
+
+PD: No puc instal·lar la extensió perquè amb el conte del cole, no puc per permisos de administrador.
 ---
 
 ## 🠲 4. Gestió de Còpies de Seguretat (Backup)
