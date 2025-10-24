@@ -43,7 +43,7 @@
 ![imatge3](/tasca_01/img/imatge_03.png)
 ---
 
-## 🔹 3. Exemples d’Ús i Emplenament Automàtic
+## 3. Exemples d’Ús i Emplenament Automàtic
 
 ### 3.1 Desar una Credencial d’un Compte de Correu
 1. Fes clic a **“+ Add Item”**.  
