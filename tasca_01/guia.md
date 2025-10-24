@@ -3,7 +3,7 @@
 **- Autor:** Pol Serrano Aromí
 **- Data:** 24/10/2025
 
-## 1. Instal·lació i Configuració Inicial
+## 🠲 1. Instal·lació i Configuració Inicial
 
 ### 1.1 Descàrrega i Instal·lació:
 
@@ -29,7 +29,7 @@
 
 ---
 
-## 2. Generació de Contrasenyes Segures
+## 🠲 2. Generació de Contrasenyes Segures
 
 ### 2.1 Ús del Generador de Contrasenyes
 1. Al panell principal, fes clic a Ctrl+g, per generar contrasenyes segures.  
@@ -44,7 +44,7 @@
 ![imatge3](/tasca_01/img/imatge_03.png)
 ---
 
-## 3. Exemples d’Ús i Emplenament Automàtic
+## 🠲 3. Exemples d’Ús i Emplenament Automàtic
 
 ### 3.1 Desar una Credencial d’un Compte de Correu
 1. Fes clic a **“+ Add Item”**.  
@@ -69,13 +69,9 @@
 3. Quan visitis una pàgina d’inici de sessió, Bitwarden detectarà les credencials automàticament.  
 4. Prem la icona de Bitwarden i selecciona **“Autofill”**.
 
-*Drecera útil:*  
-- **Windows:** `Ctrl + Shift + L`  
-- **Mac:** `Cmd + Shift + L`
-
 ---
 
-## 4. Gestió de Còpies de Seguretat (Backup)
+## 🠲 4. Gestió de Còpies de Seguretat (Backup)
 
 ### 4.1 Crear una Còpia de Seguretat
 1. Ves a: adaalt esquerra, fitxer --> Exporta caixa forta
@@ -91,7 +87,7 @@
 
 ---
 
-## 5. Resum de Bones Pràctiques
+## 🠲 5. Resum de Bones Pràctiques
 
 | Acció | Recomanació |
 |-------|--------------|
