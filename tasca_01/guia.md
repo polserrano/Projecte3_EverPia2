@@ -91,6 +91,9 @@
 - Actualitza la còpia de seguretat **cada mes** o després de canvis importants.
 
 ---
+# Gràcies per la vostra atenció!
 
+- Podeu tornar al [anunciat](/tasca_01/README.md) de la tasca
+- Podeu anar al [informe](/tasca_01/informe.md) de la tasca
 
 
