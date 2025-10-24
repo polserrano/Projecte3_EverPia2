@@ -76,9 +76,10 @@
 ## 🠲 4. Gestió de Còpies de Seguretat (Backup)
 
 ### 4.1 Crear una Còpia de Seguretat
-1. Ves a: adaalt esquerra, fitxer --> Exporta caixa forta
-2. Tria el format **.json** o **.csv**.  
-3. Desa l’arxiu en una ubicació segura (no compartida).  
+1. Ves a dalt esquerra del software, fitxer --> Exporta caixa forta
+2. Tria el format **.json** o **.csv**.
+3. Posem la contrasenya maestra anteriorment creada quan hem creat la conta.
+4. Desa l’arxiu en una ubicació segura o un dispostiu extern personal (Disc durs, pendrive, ....  
 
 ### 4.2 Bones Pràctiques de Seguretat
 - **Mai** guardis l’arxiu d’exportació en text pla a l’ordinador.  
@@ -89,12 +90,3 @@
 
 ---
 
-## 🠲 5. Resum de Bones Pràctiques
-
-| Acció | Recomanació |
-|-------|--------------|
-| Contrasenya mestra | Més de 12 caràcters, complexa, única |
-| 2FA | Sempre activat |
-| Compartició de credencials | Només mitjançant “Organizations” de Bitwarden |
-| Backups | Mensuals i sempre xifrats |
-| Actualització | Mantén aplicacions i extensions al dia |
