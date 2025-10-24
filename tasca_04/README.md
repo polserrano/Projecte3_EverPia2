@@ -17,7 +17,7 @@ El treball inclourà les següents fases:
 
 Aquesta implementació proporcionarà a Innovatech una gestió d’usuaris més eficient, segura i escalable, facilitant el manteniment i la integració de nous serveis dins la seva infraestructura tecnològica.
 
---
+---
 
 - Pots trobar la solució en l'arxiu [solucio.md](/tasca_04/solucio.md)
 
