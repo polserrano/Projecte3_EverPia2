@@ -22,7 +22,7 @@
 3. Accepta els termes i prem **“Submit”**.  
 4. Inicia sessió amb el teu compte.
 
-
+![imatge2](/tasca_03/img/imatge_02.png)
 
 6. Una recomanació que us donc, és habilitar el factor de autentificació (2FA)
 
