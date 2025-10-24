@@ -5,8 +5,9 @@
 
 ## 1. Instal·lació i Configuració Inicial
 
-### 1.1 Descàrrega i Instal·lació
-1. Accedeix a la web oficial: [https://bitwarden.com/download/](https://bitwarden.com/download/)
+### 1.1 Descàrrega i Instal·lació:
+
+1. Accedeix a la web oficial: https://bitwarden.com/es-la/download/
 2. Descarrega la versió adequada segons el teu sistema operatiu:
    - **Windows:** Bitwarden Desktop  
    - **macOS / Linux:** Versió corresponent  
@@ -63,7 +64,7 @@
 ![imatge5](/tasca_01/img/imatge_05.png)
 
 ### 3.3 Ús de l’Extensió del Navegador
-1. Instal·la l’extensió des de [https://bitwarden.com/download/](https://bitwarden.com/download/).  
+1. Instal·la l’extensió des de https://bitwarden.com/download/
 2. Inicia sessió amb el teu compte.  
 3. Quan visitis una pàgina d’inici de sessió, Bitwarden detectarà les credencials automàticament.  
 4. Prem la icona de Bitwarden i selecciona **“Autofill”**.
@@ -77,10 +78,9 @@
 ## 🔹 4. Gestió de Còpies de Seguretat (Backup)
 
 ### 4.1 Crear una Còpia de Seguretat
-1. Ves a: *Settings → Tools → Export Vault*.  
+1. Ves a: adaalt esquerra, fitxer --> Exporta caixa forta
 2. Tria el format **.json** o **.csv**.  
 3. Desa l’arxiu en una ubicació segura (no compartida).  
-4. Si tens una organització o servidor propi, activa les còpies automàtiques des del panell d’administració.
 
 ### 4.2 Bones Pràctiques de Seguretat
 - **Mai** guardis l’arxiu d’exportació en text pla a l’ordinador.  
@@ -100,20 +100,3 @@
 | Compartició de credencials | Només mitjançant “Organizations” de Bitwarden |
 | Backups | Mensuals i sempre xifrats |
 | Actualització | Mantén aplicacions i extensions al dia |
-
----
-
-## 🔹 6. Annex: Captures Recomanades
-Afegeix captures de pantalla per fer la guia més visual:
-1. Pantalla de registre i inici de sessió  
-2. Generador de contrasenyes  
-3. Formulari d’“Add Item”  
-4. Extensió del navegador amb l’autofill  
-5. Pantalla d’“Export Vault”  
-
----
-
-📘 **Autoria:** Equip Tècnic  
-📅 **Versió:** 1.0  
-🔐 **Eina:** Bitwarden Password Manager
-
