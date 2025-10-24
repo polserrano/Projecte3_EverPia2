@@ -31,17 +31,14 @@
 ## 2. Generació de Contrasenyes Segures
 
 ### 2.1 Ús del Generador de Contrasenyes
-1. Al panell principal, fes clic a la icona de **“Generador”** (🔑).  
+1. Al panell principal, fes clic a Ctrl+g, per generar contrasenyes segures.  
 2. Escull entre:
    - **Contrasenya aleatòria**
    - **Passphrase (frase de paraules aleatòries)**
 3. Configura els **paràmetres recomanats**:
-   - Longitud: **16–20 caràcters**
+   - Longitud: 18 és ho recomanable, entre 18 i 20
    - Incloure: majúscules, minúscules, números i símbols
-   - Evitar caràcters similars (`O`, `0`, `l`, `I`)
 4. Desa o copia la contrasenya directament en una entrada del voltant.
-
-💡 *Consell:* Utilitza sempre el generador de Bitwarden per crear o canviar contrasenyes.
 
 ---
 
