@@ -19,3 +19,6 @@ Aquesta implementació proporcionarà a Innovatech una gestió d’usuaris més 
 
 --
 
+- Pots trobar la solució en l'arxiu [solucio.md](/tasca_04/solucio.md)
+
+- [Torna a la pàgina principal](../)
