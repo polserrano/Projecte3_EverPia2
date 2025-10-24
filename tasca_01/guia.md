@@ -1,6 +1,7 @@
 # Guia d’Ús Tècnica – Bitwarden
 
 **- Autor:** Pol Serrano Aromí
+
 **- Data:** 24/10/2025
 
 ## 🠲 1. Instal·lació i Configuració Inicial
@@ -89,6 +90,12 @@
   - **Clau USB xifrada**
   - **Emmagatzematge al núvol amb xifratge (Tresorit, Proton Drive, OneDrive xifrat)**  
 - Actualitza la còpia de seguretat **cada mes** o després de canvis importants.
+---
+🠲 5. Webgrafia
+
+- https://bitwarden.com/es-la/download/#downloads-web-browser
+- http://bitwarden.com/download/
+- https://www.youtube.com/watch?v=OkYKb0Sx-XA
 
 ---
 # Gràcies per la vostra atenció!
