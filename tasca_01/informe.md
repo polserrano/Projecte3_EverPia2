@@ -104,4 +104,5 @@ Finalment la meva recomanació és per a usuaris que valorin la comoditat i acc�
 ---
 ## Gràcies per la vostra atencio!
 
-- [Torna a la pàgina principal](../)
+- Podeu tornar a l’[enunciat](/tasca_01/README.md) de la tasca  
+- Podeu anar a la [guia](/tasca_01/guia.md) de la tasca  
