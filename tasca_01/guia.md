@@ -105,11 +105,11 @@ En aquesta part de la pràctica, he escollit Trello.
 
 ## 🠲 5. Webgrafia
 
-- https://bitwarden.com/es-la/download/#downloads-web-browser  
-- http://bitwarden.com/download/  
-- https://www.youtube.com/watch?v=OkYKb0Sx-XA
-- https://www.incibe.es/empresas/blog/gestores-de-contrasenas-que-son-y-como-pueden-mejorar-la-seguridad-de-las-empresas
-- https://www.incibe.es/ciudadania/tematicas/contrasenas-seguras
+- **1/** https://bitwarden.com/es-la/download/#downloads-web-browser  
+- **2/** http://bitwarden.com/download/  
+- **3/** https://www.youtube.com/watch?v=OkYKb0Sx-XA
+- **4/** https://www.incibe.es/empresas/blog/gestores-de-contrasenas-que-son-y-como-pueden-mejorar-la-seguridad-de-las-empresas
+- **5/** https://www.incibe.es/ciudadania/tematicas/contrasenas-seguras
 
 ---
 
