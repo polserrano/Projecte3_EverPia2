@@ -1,4 +1,4 @@
-# Guia d’Ús Tècnica – Bitwarden
+# Fase 2 - Guia d’Ús Tècnica – Bitwarden
 
 **- Autor:** Pol Serrano Aromí  
 **- Data:** 24/10/2025  
