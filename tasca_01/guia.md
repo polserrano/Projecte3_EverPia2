@@ -5,6 +5,24 @@
 
 ---
 
+## 🠲 Índex
+
+1. Instal·lació i Configuració Inicial
+   - 1.1 Descàrrega i Instal·lació
+   - 1.2 Creació del Compte Mestre
+2. Generació de Contrasenyes Segures
+   - 2.1 Ús del Generador de Contrasenyes
+3. Exemples d’Ús i Emplenament Automàtic
+   - 3.1 Desar una Credencial d’un Compte de Correu 
+   - 3.2 Desar una Credencial d’una Aplicació o Servei Web 
+   - 3.3 Ús de l’Extensió del Navegador 
+4. Gestió de Còpies de Seguretat (Backup)  
+   - 4.1 Crear una Còpia de Seguretat
+   - 4.2 Bones Pràctiques de Seguretat
+5. Webgrafia
+6. Conclusió
+
+---
 ## 🠲 1. Instal·lació i Configuració Inicial
 
 ### 1.1 Descàrrega i Instal·lació
@@ -98,8 +116,8 @@ En aquesta part de la pràctica, he escollit Trello.
 - **Mai** guardis l’arxiu d’exportació en text pla a l’ordinador.  
 - Desa’l en un suport segur com ara:
   - **Clau USB xifrada**  
-  - **Emmagatzematge al núvol amb xifratge (Tresorit, Proton Drive, OneDrive xifrat)**  
-- Actualitza la còpia de seguretat **cada mes** o després de canvis importants.
+  - **Emmagatzematge al núvol amb xifratge (Tresorit, Proton Drive, OneDrive, ...)**  
+- Jo recomano actualitza la còpia de seguretat **cada mes** o després de canvis en el vault importants.
 
 ---
 
@@ -112,7 +130,15 @@ En aquesta part de la pràctica, he escollit Trello.
 - **5/** https://www.incibe.es/ciudadania/tematicas/contrasenas-seguras
 
 ---
+## 🠲 6. Conclusió
 
+Bitwarden és una eina molt útil i potent per gestionar de manera segura totes les nostres contrasenyes i credencials digitals. Gràcies al seu sistema de xifratge, la compatibilitat amb diferents plataformes i la possibilitat d’autenticació en dos factors (2FA), ofereix un alt nivell de protecció davant riscos de seguretat.
+
+A més, el seu generador de contrasenyes i la funció d’emplenament automàtic faciliten enormement la gestió quotidiana d’usuaris i claus, reduint la possibilitat d’errors humans o de reutilitzar contrasenyes febles. 
+
+En conclusió, utilitzar Bitwarden és una molt bona pràctica per mantenir la seguretat digital personal i professional, i una eina recomanable per a qualsevol persona o empresa que vulgui protegir la seva informació d’accés d’una manera senzilla, segura i eficient.
+
+---
 # Gràcies per la vostra atenció!
 
 - Podeu tornar a l’[enunciat](/tasca_01/README.md) de la tasca  
