@@ -11,7 +11,7 @@ A més, la reutilització de contrasenyes agreuja encara més el problema. Els c
 
 Aquestes vulnerabilitats no només poden permetre l'accés no autoritzat a dades sensibles, sinó que també poden provocar interrupcions en el funcionament de l'empresa, pèrdues econòmiques i greus danys a la reputació. Per això, és fonamental implementar polítiques de **gestió de contrasenyes**, com l’ús de **contrasenyes fortes**, **l’autenticació multifactor** i més.
 
-### La importància d’una bona gestió de les contrasenyes
+#### La importància d’una bona gestió de les contrasenyes
 La funció crucial d’un gestor de contrasenyes per mitigar riscos és garantir la seguretat i la gestió eficient de les credencials d’accés. Concretament, això implica:
 
 - **Generació de contrasenyes fortes i úniques:** Els gestors creen contrasenyes complexes, difícils de desxifrar, que es poden utilitzar exclusivament per a cada compte, evitant l’ús repetitiu.
