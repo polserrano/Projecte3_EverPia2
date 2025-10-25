@@ -13,8 +13,8 @@ La tasca es divideix en dues fases:
 
 1. **Fase 1: Informe d’Anàlisi i Justificació**  
    - Explica per què les contrasenyes febles són un risc.  
-   - Compara gestors (Bitwarden i KeePassXC).  
-   - Inclou una recomanació final.
+   - Compara gestors (Bitwarden).  
+   - Incloure una recomanació final.
 
 2. **Fase 2: Guia d’Ús Tècnica**  
    - Manual pas a pas de l’eina recomanada.  
