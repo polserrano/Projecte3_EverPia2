@@ -69,11 +69,11 @@ A continuació us mostrare las avantatges i inconvenients de cada model, online 
 
 - **Emmagatzematge local i control total:** Les dades es guarden en un fitxer .kdbx xifrat localment, sense necessitat de connexió a Internet. 
 
-- **Codi obert i seguretat millorada:** Utilitza xifratge AES-256 amb derivació de clau Argon2, garantint una protecció robusta. 
+- **Codi obert i seguretat millorada:** Utilitza xifratge AES-256 amb derivació de clau Argon2, garantint una gran protecció. 
 
 - **Funcionalitats avançades:** Inclou generació de contrasenyes d'un sol ús (TOTP), integració amb SSH-agent i autocompletar amb teclat. 
 
-- **Portabilitat del fitxer de base de dades:** El fitxer .kdbx es pot emmagatzemar en dispositius USB o serveis de núvol per facilitar l'accés. 
+- **Portabilitat del fitxer de base de dades:** El fitxer .kdbx es pot emmagatzemar en dispositius USB o discs durs externs. 
 
 **3.4.2 - Inconvenients**
 
