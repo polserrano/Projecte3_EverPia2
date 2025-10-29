@@ -106,7 +106,7 @@ dpkg-reconfigure slapd
 ![imatge](/tasca_04/img/IMATGE_11.png)
 ![imatge](/tasca_04/img/IMATGE_12.png)
 
-En demana coses com: nom de l’organització, password del admin, borrar la base de dades i moure la informació del directori existent a una carpeta de backup.
+En demana coses com: **nom de l’organització**, **password del admin**, **borrar la base de dades** i **moure la informació del directori existent a una carpeta de backup**.
 
 ---
 ## 9. Creació dels OU:
@@ -162,15 +162,15 @@ sudo apt install ldap-account-manager -y
 
 ![imatge](/tasca_04/img/IMATGE_15.png)
 
-Un cop instal·lat, anirem al nostra buscador, i buscarem ‘http://IP/lam’ en el meu cas serà ‘http://192.168.56.101/lam’ y un cop haguim introduit aquests enllaç estarem dins del menu de login del nostre LDAP versió gràfica.
+Un cop instal·lat, anirem al nostra buscador, i buscarem **‘http://IP/lam’** en el meu cas serà **‘http://192.168.56.101/lam’** y un cop haguim introduit aquests enllaç estarem dins del menu de login del nostre LDAP versió gràfica.
 
 ![imatge](/tasca_04/img/IMATGE_16.png)
 
-Un cop estiguem en el menú com el que es mostra a la imatge localitzarem un botó a la part superior dreta que posa ‘LAM configuration’, seguidament li farem click a la segona opcio, ‘Edit server profiles’.
+Un cop estiguem en el menú com el que es mostra a la imatge localitzarem un botó a la part superior dreta que posa **‘LAM configuration’**, seguidament li farem click a la segona opcio, **‘Edit server profiles’**.
 
 ![imatge](/tasca_04/img/IMATGE_17.png)
 
-Un cop haguim fet click a la segona opció ens direccionara a un nou menú on podrem introduir la contrasenya per el nostre LDAP account manager, recordeu que la contrasenya que ve ja predeterminada és: ‘lam’
+Un cop haguim fet click a la segona opció ens direccionara a un nou menú on podrem introduir la contrasenya per el nostre LDAP account manager, recordeu que la contrasenya que ve ja predeterminada és: **‘lam’**
 
 ![imatge](/tasca_04/img/IMATGE_18.png)
 
@@ -179,11 +179,11 @@ Un cop haguim seguit tots els passos estarem finalment en la interfície per pog
 ---
 ## 11. Configuración prèvies LDAP Account Manager:
 
-Un cop estiguem dins i a la primera pàgina (General Settings) haurem de configurar diferents paràmetres com els que surten subratllats a la imatge; la llista valida d'usuaris, el idioma, la zona horaria i finalment el sufix com surt a la imatge.
+Un cop estiguem dins i a la primera pàgina **(General Settings)* haurem de configurar diferents paràmetres com els que surten subratllats a la imatge; la llista valida d'usuaris, el idioma, la zona horaria i finalment el sufix com surt a la imatge.
 
 ![imatge](/tasca_04/img/IMATGE_19.png)
 
-Després entrarem en la segona pestaña (Account types), allà haurem de canviar el LDAP sufix dels usuaris i el LDAP sufix dels grups, com surt a la imatge. Un cop fet això guardarem.
+Després entrarem en la segona pestaña **(Account types)*, allà haurem de canviar el LDAP sufix dels usuaris i el LDAP sufix dels grups, com surt a la imatge. Un cop fet això guardarem.
 
 ![imatge](/tasca_04/img/IMATGE_20.png)
 
@@ -192,7 +192,7 @@ Un cop guardat els canvis, veurem què se'ns tancarà sessió i iniciarem amb la
 ---
 ## 12. Creació de grups i usuaris
 
-Seguidament com diu la pràctica haurem de crear 2 usuaris amb el nom de: ‘tech01’ i ‘manager01’ i seguidament crear també 2 grups amb el nom de: ‘tech’ i ‘manager’. Seguidament a les següents imatges podem veure que per crear els usuaris, haurem d'anar ‘users > crear nuevo usuario’ i per crear grups: ‘groups > crear un nuevo grupo’.
+Seguidament com diu la pràctica haurem de crear 2 usuaris amb el nom de: **‘tech01’ i ‘manager01’** i seguidament crear també 2 grups amb el nom de: **‘tech’** i **‘manager’**. Seguidament a les següents imatges podem veure que per crear els usuaris, haurem d'anar **‘users > crear nuevo usuario’** i per crear grups: **‘groups > crear un nuevo grupo’**.
 
 Seguidament un cop hagiu fet un click a ‘crear un nuevo grupo’ hi crearem els dos grups com indica la tasca: ‘tech i manager’
 
@@ -203,7 +203,7 @@ Aquí podem veure que fem la creació del primer usuari, amb el nom de tech01 co
 ![imatge](/tasca_04/img/IMATGE_22.png)
 ![imatge](/tasca_04/img/IMATGE_23.png)
 
-Podem comprovar que els usuaris s’han creat correctament, si anem a la ‘llista d'usuaris’, que apareix justament en un botó quan acabes de crear un usuari i com podeu veure els tant els usuaris, com el nom dels usuaris estan creats correctament
+Podem comprovar que els usuaris s’han creat correctament, si anem a la **‘llista d'usuaris’**, que apareix justament en un botó quan acabes de crear un usuari i com podeu veure els tant els usuaris, com el nom dels usuaris estan creats correctament
 
 ![imatge](/tasca_04/img/IMATGE_24.png)
 
