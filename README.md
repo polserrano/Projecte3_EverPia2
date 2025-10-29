@@ -59,6 +59,7 @@ Aprendràs a:
 Aquestes seran las tasques que hi hauran en aquests projecte, poc a poc aquests apartat s'anirà actualitzant.
 
 - [Tasca 1](/tasca_01)
+- [Tasca 3](/tasca_03)
 - [Tasca 4](/tasca_04)
 - [Enllaç directe al planner](https://planner.cloud.microsoft/webui/v1/plan/S3uuz4hYcUKXlHDBpCpwrJYAHSJW?tid=c7b5981a-7820-4ac8-ae65-03515ea81317)
 
