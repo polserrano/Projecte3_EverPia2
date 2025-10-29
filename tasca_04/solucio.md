@@ -1,4 +1,4 @@
-# SERVEIS DE DIRECTORI (LDAP)
+# T04: Serveis de directori (LDAP)
 ---
 - **Autor:** Pol Serrano Aromí
 - **Data:** 29/10/2025
