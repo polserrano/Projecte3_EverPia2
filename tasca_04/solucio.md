@@ -4,17 +4,30 @@
 - **Data:** 29/10/2025
 
 ---
-## 1. Introducció:
+## 📖 1. Introducció:
 En aquesta pràctica treballarem amb la instal·lació i configuració d’un servidor LDAP utilitzant Ubuntu Server 24.04 dins d’una màquina virtual a VirtualBox. Treballarem també la configuració de la xarxa, l’accés remot mitjançant SSH i la instal·lació de l’eina LDAP Account Manager (LAM) per gestionar usuaris i grups de manera gràfica. L’objectiu és aprendre a crear i administrar un directori LDAP, comprendre la seva estructura i veure com pot utilitzar-se en entorns professionals per a la gestió centralitzada d’usuaris i permisos.
 
 ---
-## 2. Índex:
+## 📁 2. Índex:
 
+1. [Introducció](#1-introducció)  
+2. [Índex](#2-índex)  
+3. [Configuració Prèvia](#3-configuració-prèvia)  
+4. [Actualitzacions opcionals (recomanades)](#4-actualitzacions-opcionals-recomanades)  
+5. [Connexió SSH](#5-connexió-ssh)  
+6. [Canviar domini](#6-canviar-domini)  
+7. [Instal·lació OpenLDAP](#7-instal·lació-openldap)  
+8. [Comprovació del directori](#8-comprovació-del-directori)  
+9. [Creació dels OU (Unitats Organitzatives)](#9-creació-dels-ou)  
+10. [Instal·lació LDAP Account Manager (LAM)](#10-instal·lació-ldap-account-manager)  
+11. [Configuracions prèvies de LDAP Account Manager](#11-configuracions-prèvies-ldap-account-manager)  
+12. [Creació de grups i usuaris](#12-creació-de-grups-i-usuaris)  
+13. [Conclusió](#13-conclusió)
 
 ![imatge](/tasca_04/img/IMATGE_01.png)
 
 ---
-## 3. Configuració Prèvia:
+## ⚙️ 3. Configuració Prèvia:
 
 Primer de tot crearem una màquina nova a VirtualBox, seguidament, seleccionem la ISO anteriorment descarregada, en el nostre cas (Ubuntu Server 24.04). Després, en el meu cas, li posarem 25GB i 4GB de RAM.
 
@@ -22,7 +35,7 @@ Un cop haguim instal·lat correctament el server a VirtualBox, procedim a la pri
 
 ![imatge](/tasca_04/img/IMATGE_02.png)
 ---
-## 4. Actualitzacions opcionals (recomanades):
+## 💻 4. Actualitzacions opcionals (recomanades):
 
 Un cop haguem fet tot el procés d'instal·lació i estiguem dins del server introduirem la comanda: sudo apt upgrade -y & sudo apt update
 
@@ -31,7 +44,7 @@ Un cop haguem fet tot el procés d'instal·lació i estiguem dins del server int
 El símbol ‘&&’ es representa, com si diguessim una coma, despres de executar el ‘sudo apt update’ després instalara l’altre comanda.
 
 ---
-## 5. Connexió SSH:
+## 🌐 5. Connexió SSH:
 
 Per fer-ho obrirem en el meu cas una terminal amb git instal·lat, i posarem la comanda: 
 
@@ -44,7 +57,7 @@ ssh usuari@192.168.56.101
 Això és en el meu cas, ja que el meu usuari, es diu usuari i aquella és la ip del meu adaptador. Un cop fet això estem connectats correctament remotament.
 
 ---
-## 6. Canviar domini:
+## 🛜 6. Canviar domini:
 
 Per canviar el domini, entrarem al arxiu nano: 
 
@@ -61,7 +74,7 @@ Un cop finalitzat aquests pas, introduirem la comanda: ‘hostname -f’ per veu
 ![imatge](/tasca_04/img/IMATGE_06.png)
 
 ---
-## 7. Instal·lació OpenLDAP:
+## ⚡ 7. Instal·lació OpenLDAP:
 
 Ara passarem a la instal·lació, on amb la comanda: 
 
@@ -84,7 +97,7 @@ comprovarem que el servei està funcionant correctament, com podeu veure està a
 ![imatge](/tasca_04/img/IMATGE_08.png)
 
 ---
-## 8. Comprovació del directori:
+## 💥 8. Comprovació del directori:
 
 Seguidament amb la comanda:
 
@@ -109,7 +122,7 @@ dpkg-reconfigure slapd
 En demana coses com: **nom de l’organització**, **password del admin**, **borrar la base de dades** i **moure la informació del directori existent a una carpeta de backup**.
 
 ---
-## 9. Creació dels OU:
+## 👤 9. Creació dels OU:
 
 Per fer-ho, ho farem mitjançant la comanda: 
 
@@ -152,7 +165,7 @@ I veurem que s’ha eliminat correctament ja que només ens surt el predetermina
 ![imatge](/tasca_04/img/IMATGE_14.png)
 
 ---
-## 10. Instal·lació LDAP Account Manager:
+## 🔗 10. Instal·lació LDAP Account Manager:
 
 Seguidament farem la instal·lació del LDAP account manager i ho farem mitjançant la comanda: 
 
@@ -177,7 +190,7 @@ Un cop haguim fet click a la segona opció ens direccionara a un nou menú on po
 Un cop haguim seguit tots els passos estarem finalment en la interfície per pogue configurar el nostre LDAP.
 
 ---
-## 11. Configuración prèvies LDAP Account Manager:
+## 🛠️ 11. Configuración prèvies LDAP Account Manager:
 
 Un cop estiguem dins i a la primera pàgina **(General Settings)* haurem de configurar diferents paràmetres com els que surten subratllats a la imatge; la llista valida d'usuaris, el idioma, la zona horaria i finalment el sufix com surt a la imatge.
 
@@ -190,7 +203,7 @@ Després entrarem en la segona pestaña **(Account types)*, allà haurem de canv
 Un cop guardat els canvis, veurem què se'ns tancarà sessió i iniciarem amb la contrasenya introduïda en passos anteriors del LDAP.
 
 ---
-## 12. Creació de grups i usuaris
+## 🔎 12. Creació de grups i usuaris
 
 Seguidament com diu la pràctica haurem de crear 2 usuaris amb el nom de: **‘tech01’ i ‘manager01’** i seguidament crear també 2 grups amb el nom de: **‘tech’** i **‘manager’**. Seguidament a les següents imatges podem veure que per crear els usuaris, haurem d'anar **‘users > crear nuevo usuario’** i per crear grups: **‘groups > crear un nuevo grupo’**.
 
@@ -213,7 +226,7 @@ Finalment, l'últim pas serà agregar els usuaris als grups creats anteriorment
 ![imatge](/tasca_04/img/IMATGE_26.png)
 
 ---
-## 13. Conclusió
+## ⛄ 13. Conclusió
 
 En conclusió, amb aquesta tasca hem après a instal·lar i configurar un servidor Ubuntu Server 24.04 amb OpenLDAP i LDAP Account Manager dins d’una màquina virtual a VirtualBox. Hem configurat la xarxa, accedit per SSH, creat el domini i les unitats organitzatives, i finalment gestionat usuaris i grups des de la interfície gràfica del LAM. Aquest procés ens permet entendre millor la gestió centralitzada d’usuaris i grups en un entorn professional.
 ---
