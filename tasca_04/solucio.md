@@ -226,9 +226,10 @@ Finalment, l'últim pas serà agregar els usuaris als grups creats anteriorment
 ![imatge](/tasca_04/img/IMATGE_26.png)
 
 ---
-## ⛄ 13. Conclusió
+## ♣️ 13. Conclusió
 
 En conclusió, amb aquesta tasca hem après a instal·lar i configurar un servidor Ubuntu Server 24.04 amb OpenLDAP i LDAP Account Manager dins d’una màquina virtual a VirtualBox. Hem configurat la xarxa, accedit per SSH, creat el domini i les unitats organitzatives, i finalment gestionat usuaris i grups des de la interfície gràfica del LAM. Aquest procés ens permet entendre millor la gestió centralitzada d’usuaris i grups en un entorn professional.
+
 ---
 # Gràcies per la vostra atenció!
 
