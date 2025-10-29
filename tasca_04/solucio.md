@@ -10,19 +10,19 @@ En aquesta pràctica treballarem amb la instal·lació i configuració d’un se
 ---
 ## 📁 2. Índex:
 
-1. [Introducció](#1-introducció)  
-2. [Índex](#2-índex)  
-3. [Configuració Prèvia](#3-configuració-prèvia)  
-4. [Actualitzacions opcionals (recomanades)](#4-actualitzacions-opcionals-recomanades)  
-5. [Connexió SSH](#5-connexió-ssh)  
-6. [Canviar domini](#6-canviar-domini)  
-7. [Instal·lació OpenLDAP](#7-instal·lació-openldap)  
-8. [Comprovació del directori](#8-comprovació-del-directori)  
-9. [Creació dels OU (Unitats Organitzatives)](#9-creació-dels-ou)  
-10. [Instal·lació LDAP Account Manager (LAM)](#10-instal·lació-ldap-account-manager)  
-11. [Configuracions prèvies de LDAP Account Manager](#11-configuracions-prèvies-ldap-account-manager)  
-12. [Creació de grups i usuaris](#12-creació-de-grups-i-usuaris)  
-13. [Conclusió](#13-conclusió)
+**1.** [Introducció](#1-introducció)  
+**2.** [Índex](#2-índex)  
+**3.** [Configuració Prèvia](#3-configuració-prèvia)  
+**4.** [Actualitzacions opcionals (recomanades)](#4-actualitzacions-opcionals-recomanades)  
+**5.** [Connexió SSH](#5-connexió-ssh)  
+**6.** [Canviar domini](#6-canviar-domini)  
+**7.** [Instal·lació OpenLDAP](#7-instal·lació-openldap)  
+**8.** [Comprovació del directori](#8-comprovació-del-directori)  
+**9.** [Creació dels OU (Unitats Organitzatives)](#9-creació-dels-ou)  
+**10.** [Instal·lació LDAP Account Manager (LAM)](#10-instal·lació-ldap-account-manager)  
+**11.** [Configuracions prèvies de LDAP Account Manager](#11-configuracions-prèvies-ldap-account-manager)  
+**12.** [Creació de grups i usuaris](#12-creació-de-grups-i-usuaris)  
+**13.** [Conclusió](#13-conclusió)
 
 ![imatge](/tasca_04/img/IMATGE_01.png)
 
