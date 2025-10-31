@@ -23,5 +23,5 @@ Per donar resposta a aquesta necessitat, se us demana realitzar una **auditoria 
 ## Recursos del projecte
 
 - 📂 [Carpeta d’imatges](./img)  
-- 📄 [Solució de la tasca (solucio.md)](./solucio.md)
+- 📄 [Solució de la tasca](./solucio.md)
 
