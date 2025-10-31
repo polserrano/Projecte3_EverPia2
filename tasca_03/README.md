@@ -1,4 +1,4 @@
-# Introducció: Disseny i Documentació de Solucions d’Emmagatzematge per a "Garriga i Associats"
+# Introducció: Espais d’Emmagatzematge
 
 Després d’haver superat la fase formativa, ja esteu preparats per afrontar un nou repte professional com a tècnics de **EverPia Consultors**. En aquesta ocasió, el nostre client és **"Garriga i Associats"**, un prestigiós **bufet d’advocats** que gestiona una gran quantitat d’informació legal **altament sensible**.  
 
