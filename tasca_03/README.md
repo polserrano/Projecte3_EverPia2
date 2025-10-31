@@ -72,6 +72,6 @@ El projecte ha de demostrar la capacitat de l’equip per:
 ## Recursos del projecte
 
 - 📂 [Carpeta d’imatges](./img)  
-- 🐧 [Solució Linux (linux_lvm.md)](./linux_lvm.md)  
-- 🪟 [Solució Windows (windows_storage.md)](./windows_storage.md)
+- 🐧 [Solució Linux ](./linux-lvm.md)  
+- 🪟 [Solució Windows](./windows_storage.md)
 
