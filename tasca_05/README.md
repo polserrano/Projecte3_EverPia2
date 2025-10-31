@@ -1,4 +1,4 @@
-# Introducció a la Tasca: Auditoria Estratègica i Organitzativa de l’Empresa Client
+# Introducció: Auditoria Estratègica i Organitzativa de l’Empresa Client
 
 En aquesta activitat, cada **parella de consultors** rebrà l’assignació d’un **client real o simulat** —una empresa del sector tecnològic o informàtic— per dur a terme una **auditoria estratègica i organitzativa**. El vostre rol és actuar com a **consultors professionals**, analitzant l’entorn, l’estructura i el model de negoci de l’empresa per tal d’oferir una visió global del seu funcionament i de les seves oportunitats de millora.
 
