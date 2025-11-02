@@ -219,16 +219,16 @@ La comanda retorna diverses línies dins la secció ANSWER SECTION, com ara:
 
 **Interpretació:**
 
-PTR: és el tipus de registre DNS utilitzat per les consultes inverses. Associa una adreça IP amb un o més noms de domini.
-
+**PTR:** és el tipus de registre DNS utilitzat per les consultes inverses. Associa una adreça IP amb un o més noms de domini.
 
 En aquest cas, l’adreça IP **147.83.2.135** té múltiples registres PTR, tots relacionats amb dominis de la Universitat Politècnica de Catalunya (UPC).
-
 
 Resumidament la informació obtinguda és:
 
 **- Tipus de registre:** PTR (Pointer Record)
+
 **- IP consultada:** 147.83.2.135
+
 **- Noms de domini associats:** upc.cat, upc.edu, upc.es, upc.eu
 **- Indica que aquesta IP pertany a la infraestructura de la UPC i pot ser compartida per diferents serveis o subdominis.**
 
