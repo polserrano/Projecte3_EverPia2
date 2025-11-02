@@ -192,11 +192,11 @@ Un cop haguim seguit tots els passos estarem finalment en la interfície per pog
 ---
 ## 🛠️ 11. Configuración prèvies LDAP Account Manager:
 
-Un cop estiguem dins i a la primera pàgina **(General Settings)* haurem de configurar diferents paràmetres com els que surten subratllats a la imatge; la llista valida d'usuaris, el idioma, la zona horaria i finalment el sufix com surt a la imatge.
+Un cop estiguem dins i a la primera pàgina **(General Settings)** haurem de configurar diferents paràmetres com els que surten subratllats a la imatge; la llista valida d'usuaris, el idioma, la zona horaria i finalment el sufix com surt a la imatge.
 
 ![imatge](/tasca_04/img/IMATGE_19.png)
 
-Després entrarem en la segona pestaña **(Account types)*, allà haurem de canviar el LDAP sufix dels usuaris i el LDAP sufix dels grups, com surt a la imatge. Un cop fet això guardarem.
+Després entrarem en la segona pestaña **(Account types)**, allà haurem de canviar el LDAP sufix dels usuaris i el LDAP sufix dels grups, com surt a la imatge. Un cop fet això guardarem.
 
 ![imatge](/tasca_04/img/IMATGE_20.png)
 
@@ -205,7 +205,7 @@ Un cop guardat els canvis, veurem què se'ns tancarà sessió i iniciarem amb la
 ---
 ## 🔎 12. Creació de grups i usuaris
 
-Seguidament com diu la pràctica haurem de crear 2 usuaris amb el nom de: **‘tech01’ i ‘manager01’** i seguidament crear també 2 grups amb el nom de: **‘tech’** i **‘manager’**. Seguidament a les següents imatges podem veure que per crear els usuaris, haurem d'anar **‘users > crear nuevo usuario’** i per crear grups: **‘groups > crear un nuevo grupo’**.
+Seguidament com diu la pràctica haurem de crear 2 usuaris amb el nom de: **‘tech01’** i **‘manager01’** i seguidament crear també 2 grups amb el nom de: **‘tech’** i **‘manager’**. Seguidament a les següents imatges podem veure que per crear els usuaris, haurem d'anar **‘users > crear nuevo usuario’** i per crear grups: **‘groups > crear un nuevo grupo’**.
 
 Seguidament un cop hagiu fet un click a ‘crear un nuevo grupo’ hi crearem els dos grups com indica la tasca: ‘tech i manager’
 
