@@ -1,4 +1,4 @@
-# Introducció a la Tasca: Auditoria del Servei DNS
+# Introducció a la Tasca: Fonaments del Servei DNS
 
 Com a membres del departament tècnic de **EverPia**, heu rebut l’encàrrec d’un nou projecte per part del vostre client **DigiCore**, una empresa de màrqueting digital que experimenta problemes puntuals de connectivitat en algunes aplicacions. L’equip tècnic del client sospita que la causa principal pot estar relacionada amb una **resolució de noms (DNS)** incorrecta o lenta.
 
