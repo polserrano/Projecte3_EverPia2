@@ -1,22 +1,22 @@
 # **Fonaments del Servei DNS**
 
-## **Introducció a la tasca**
+## **1. Introducció a la tasca**
 
 Com a membres de l’equip tècnic d’EverPia, hem rebut l’encàrrec de realitzar una auditoria del servei DNS per al nostre client **DigiCore**, una empresa de màrqueting digital que pateix problemes ocasionals de connectivitat.  
 L’objectiu és identificar possibles errors en la resolució de noms i oferir eines de diagnosi eficients.
 
 ---
 
-## **Índex**
+## **2. Índex**
 
 1. Introducció a la tasca  
 2. Índex  
 3. Fase teòrica  
-   - 3.3 Estructura del DNS  
-   - 3.4 Procés de resolució  
-   - 3.5 Tipus de zones  
-   - 3.6 Tipus de registres clau  
-   - 3.7 Conceptes essencials  
+   - 3.1 Estructura del DNS  
+   - 3.2 Procés de resolució  
+   - 3.3 Tipus de zones  
+   - 3.4 Tipus de registres clau  
+   - 3.5 Conceptes essencials  
 4. Fase pràctica  
    - 4.1 Consulta bàsica de registre A  
    - 4.2 Consulta de servidors de noms  
@@ -28,9 +28,9 @@ L’objectiu és identificar possibles errors en la resolució de noms i oferir 
 
 ---
 
-## **Fase teòrica**
+## **3. Fase teòrica**
 
-### **3.3 Estructura del DNS**
+### **3.1 Estructura del DNS**
 
 El DNS té una estructura jeràrquica en arbre, dividida en nivells:
 
@@ -41,7 +41,7 @@ El DNS té una estructura jeràrquica en arbre, dividida en nivells:
 
 ---
 
-### **3.4 Procés de resolució**
+### **3.2 Procés de resolució**
 
 Quan un client vol accedir a `www.tecnocampus.cat`, el procés pot ser **iteratiu** o **recursiu**:
 
@@ -58,7 +58,7 @@ El servidor DNS recursiu fa tot el procés anterior per tu i et retorna només l
 
 ---
 
-### **3.5 Tipus de zones**
+### **3.3 Tipus de zones**
 
 Una **zona** és la part de la base de dades DNS que gestiona un servidor autoritatiu.
 
@@ -71,7 +71,7 @@ Una **zona** és la part de la base de dades DNS que gestiona un servidor autori
 
 ---
 
-### **3.6 Tipus de registres clau**
+### **3.4 Tipus de registres clau**
 
 | **Tipus** | **Funció** | **Exemple** |
 |------------|-------------|-------------|
@@ -84,7 +84,7 @@ Una **zona** és la part de la base de dades DNS que gestiona un servidor autori
 
 ---
 
-### **3.7 Conceptes essencials**
+### **3.5 Conceptes essencials**
 
 #### **Resposta autoritativa**
 - Prové directament del servidor que gestiona la zona.  
