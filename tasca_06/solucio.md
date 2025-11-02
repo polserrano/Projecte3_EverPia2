@@ -230,6 +230,7 @@ Resumidament la informació obtinguda és:
 **- IP consultada:** 147.83.2.135
 
 **- Noms de domini associats:** upc.cat, upc.edu, upc.es, upc.eu
+
 **- Indica que aquesta IP pertany a la infraestructura de la UPC i pot ser compartida per diferents serveis o subdominis.**
 
 
