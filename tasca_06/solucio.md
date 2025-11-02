@@ -315,4 +315,4 @@ En definitiva, dominar les eines i conceptes associats al DNS és essencial per 
 ---
 # Gràcies per la vostra atenció!
 
-- [Podeu tornar al enunciat](/Projecte3/tasca_06)
+- [Podeu tornar al enunciat](/tasca_06/README.md)
