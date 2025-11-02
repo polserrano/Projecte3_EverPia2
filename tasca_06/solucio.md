@@ -314,3 +314,5 @@ En definitiva, dominar les eines i conceptes associats al DNS és essencial per 
 
 ---
 # Gràcies per la vostra atenció!
+
+- [Podeu tornar al enunciat](/tas_06)
