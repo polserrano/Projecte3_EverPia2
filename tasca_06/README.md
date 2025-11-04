@@ -24,4 +24,4 @@ Per donar resposta a aquesta necessitat, se us demana realitzar una **auditoria 
 
 - 📂 [Carpeta d’imatges](./img)  
 - 📄 [Solució de la tasca](./solucio.md)
-
+- 🎥 [Video fonaments del DNS](./video.md)
