@@ -21,8 +21,13 @@ En aquesta pràctica treballarem amb la instal·lació i configuració d’un se
 **9.** [Creació dels OU (Unitats Organitzatives)](#9-creació-dels-ou)  
 **10.** [Instal·lació LDAP Account Manager (LAM)](#10-instal·lació-ldap-account-manager)  
 **11.** [Configuracions prèvies de LDAP Account Manager](#11-configuracions-prèvies-ldap-account-manager)  
-**12.** [Creació de grups i usuaris](#12-creació-de-grups-i-usuaris)  
-**13.** [Conclusió](#13-conclusió)
+**12.** [Creació de grups i usuaris](#12-creació-de-grups-i-usuaris) 
+**13.** [Agregar el client al directori](#13-Agregar-el-client-al-directori) 
+**14.** [Configuració dels mòduls](#14-Configuració-dels-mòduls)
+**15.** [Comprovació de connexió](#15-Comprovació-de-connexió)
+**16.** [Configuracions](#16-Configuracions)
+**17.** [Comprovacions](#17-Comprovacions)
+**18.** [Conclusió](#18-conclusió)
 
 ![imatge](/tasca_04/img/IMATGE_01.png)
 
