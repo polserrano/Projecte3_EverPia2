@@ -237,7 +237,7 @@ Seguidament un cop canviat i desat els canvis del arxiu, farem ping amb el serve
 
 IMATGE 28
 
-Finalment farem un ‘hostname -f’ per veure si el nom del nostre host s’ha configurat i canviat correctament.
+Finalment farem un **‘hostname -f’** per veure si el nom del nostre host s’ha configurat i canviat correctament.
 
 IMATGE 29
 
@@ -311,7 +311,7 @@ i afegim la línia indicada per poder crear els perfils.
 
 IMATGE 39
 
-Un cop fet aquestes configuracions, reiniciem el servei: ‘systemctl restart nscd’ i comprovem que veiem els usuaris LDAP amb la comanda: ‘getent passwd | tail’
+Un cop fet aquestes configuracions, reiniciem el servei: **‘systemctl restart nscd’** i comprovem que veiem els usuaris LDAP amb la comanda: **‘getent passwd | tail’**
 
 IMATGE 40
 
@@ -321,6 +321,10 @@ IMATGE 41
 
 ---
 ## ✅ 17. Comprovacions:
+
+Seguidament reiniciem el client i provem a iniciar sessió amb un dels usuaris del directori: **‘tech01’** o **‘manager01’**, i si ens demana contrasenya hi posarem la que vam crear quan vam crear els usuaris desde el OpenLDAP:
+
+IMATGE 42
 ---
 ## ♣️ 18. Conclusió
 
