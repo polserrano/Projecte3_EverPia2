@@ -224,9 +224,105 @@ Finalment, l'últim pas serà agregar els usuaris als grups creats anteriorment
 
 ![imatge](/tasca_04/img/IMATGE_25.png)
 ![imatge](/tasca_04/img/IMATGE_26.png)
+---
+## 👾 13. Agregar el client al directori:
+
+Seguidament agregarem el client en el directori LDAP, per fer-ho, farem un entorn simulat, on el client estarà en un entorn de Zorin, sobretot, tant en la màquina del client com el servidor de ubuntu, hi posarem Xarxa NAT perquè així és puguin veure entre elles i també amfitrio en el servidor per poguer fer servir el SSH.
+
+Primer de tot i cop configurada la màquina, entrarem al arxiu: **‘/etc/hosts’** i posarem la ip del adaptador de NAT del servidor, que en el meu cas era **‘10.0.2.4’** com es mostra en la imatge.
+
+IMATGE 27
+
+Seguidament un cop canviat i desat els canvis del arxiu, farem ping amb el server per veure si es veuen entre si, en el meu cas s’han connectat correctament ja que el ping arriva i el retorna correctament.
+
+IMATGE 28
+
+Finalment farem un ‘hostname -f’ per veure si el nom del nostre host s’ha configurat i canviat correctament.
+
+IMATGE 29
 
 ---
-## ♣️ 13. Conclusió
+## ⌨️ 14. Configuració dels mòduls:
+
+Ara instal·larem els mòduls necessaris per usar el **‘libpam’** i **‘nss’**, ho farem amb la comanda: 
+
+```bash
+apt install libnss-ldap libpam-ldap ldap-utils nscd -y
+```
+On primer de tot introduirem el resource identifier.
+
+IMATGE 30
+
+I després el disting names per buscar a la base de dades:
+
+IMATGE 31
+
+Després seleccionarem la versió que volem usar de LDAP, en el nostra cas utilitzarem la versió 3:
+
+IMATGE 32
+
+Seguidament ens preguntarà si volem fer un root local en la base de dades de l'usuari de admin:
+
+IMATGE 33
+
+Ara ens dirà que si cada cop que volem entrar a la base de dades ens pregunti per el usuari i password.
+
+IMATGE 34
+
+I ens preguntara la conta root del LDAP:
+
+IMATGE 35
+
+---
+## 🫆 15. Comprovació de connexió:
+
+Seguidament fem una consulta ldap des del client per comprovar si es connecta amb el servidor, podem veure que s’ha connectat amb el servidor correctament ja que apareixen els usuaris que vam crear anterioriorment.
+
+IMATGE 36
+---
+## 🔋 16. Configuracions:
+
+A continuació configurarem l’arxiu: 
+
+```bash
+nano /etc/nsswitch.conf
+```
+
+Per indicar que s’usarà ldap per usuaris i grups:
+
+IMATGE 37
+
+Ara editarem: 
+
+```bash
+/etc/pam.d/common-password
+```
+i eliminem a la línia el terme: **‘use_authtok’**
+
+IMATGE 38
+
+Seguidament entrem al arxiu: 
+
+```bash
+/etc/pam.d/common-session
+``` 
+
+i afegim la línia indicada per poder crear els perfils.
+
+IMATGE 39
+
+Un cop fet aquestes configuracions, reiniciem el servei: ‘systemctl restart nscd’ i comprovem que veiem els usuaris LDAP amb la comanda: ‘getent passwd | tail’
+
+IMATGE 40
+
+Per finalitzar, editem l’arxiu indicat, per permetre l’inici de sessió gràfica:
+
+IMATGE 41
+
+---
+## ✅ 17. Comprovacions:
+---
+## ♣️ 18. Conclusió
 
 En conclusió, amb aquesta tasca hem après a instal·lar i configurar un servidor Ubuntu Server 24.04 amb OpenLDAP i LDAP Account Manager dins d’una màquina virtual a VirtualBox. Hem configurat la xarxa, accedit per SSH, creat el domini i les unitats organitzatives, i finalment gestionat usuaris i grups des de la interfície gràfica del LAM. Aquest procés ens permet entendre millor la gestió centralitzada d’usuaris i grups en un entorn professional.
 
