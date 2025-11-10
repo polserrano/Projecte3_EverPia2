@@ -1,1 +1,0 @@
-introduccio tasca p07
