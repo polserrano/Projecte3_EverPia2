@@ -70,7 +70,7 @@ Per canviar el domini, entrarem al arxiu nano:
 sudo nano /etc/hosts
 ```
 
-Allà haurem de canviar el domini, en el nostre cas, l'activitat ens demana server.innovatech21.test
+Allà haurem de canviar el domini, en el nostre cas, l'activitat ens demana: **server.innovatech21.test**
 
 ![imatge](/tasca_04/img/IMATGE_05.png)
 
