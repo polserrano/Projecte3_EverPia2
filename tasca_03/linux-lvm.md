@@ -16,13 +16,13 @@ A través de diferents comandes del sistema, es posarà en pràctica la gestió 
 
 ## 2. Índex
 
-1. Introducció  
-2. Índex  
-3. Configuracions Prèvies  
-4. Detecció de discos  
-5. Inicialització de discos  
-6. Crear Grup de Volums  
-7. Crear volums lògics  
+**1.** Introducció  
+**2.** Índex  
+**3.** Configuracions Prèvies  
+**4.** Detecció de discos  
+**5.** Inicialització de discos  
+**6.** Crear Grup de Volums  
+**7.** Crear volums lògics  
 
 ![imatge](/tasca_03/img/lvm_01.png)
 
