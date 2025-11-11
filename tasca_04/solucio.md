@@ -302,7 +302,7 @@ IMATGE ![imatge](/tasca_04/img/IMATGE_37.png)
 Ara editarem: 
 
 ```bash
-/etc/pam.d/common-password
+nano /etc/pam.d/common-password
 ```
 i eliminem a la línia el terme: **‘use_authtok’**
 
@@ -311,7 +311,7 @@ i eliminem a la línia el terme: **‘use_authtok’**
 Seguidament entrem al arxiu: 
 
 ```bash
-/etc/pam.d/common-session
+nano /etc/pam.d/common-session
 ``` 
 
 i afegim la línia indicada per poder crear els perfils.
