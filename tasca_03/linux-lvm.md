@@ -60,7 +60,7 @@ per comprovar que el sistema ha detectat els discos com a particions.
 Un cop hàgiu instal·lat tot el os, obrirem la terminal i introduirem la comanda: 
 
 ```bash
-‘fdisk -l’
+fdisk -l
 ```
 
 Per comprovar que el sistema ha detectat els discos com a particions.
@@ -95,7 +95,7 @@ Posteriorment hi podem agregar o eliminar volums. En el meu cas la comanda compl
 vgcreate volgrup /dev/sdb /dev/sdc /dev/sdd
 ```
 
-![imatge](/tasca_03/img/lvm_5.png)
+![imatge](/tasca_03/img/lvm_05.png)
 
 I si en algun cas volem afegir algún nou volum en el grup, només haurem d'introduir la comanda: 
 
@@ -111,7 +111,7 @@ vgdisplay
 
 Veurem info com el nom del grup, el estat, el format, les àrees que abarca i moltes coses més que les podeu veure en la imatge.
 
-![imatge](/tasca_03/img/lvm_6.png)
+![imatge](/tasca_03/img/lvm_06.png)
 
 ---
 
@@ -119,15 +119,15 @@ Veurem info com el nom del grup, el estat, el format, les àrees que abarca i mo
 
 Es creen a partir dels grups de volums indicant la mida, el grup de volum i el nom que se li vol donar al volum lògic, és fa amb la comanda: **‘lvcreate’**
 
-![imatge](/tasca_03/img/lvm_7.png)
+![imatge](/tasca_03/img/lvm_07.png)
 
 I ara amb la comanda: **‘vgdisplay’** s’observa com l’espai està siguent utilitzat. Recordo que els volums lògics són com les particions, per tant, per utilitzar-se caldrà formatar-los amb un sistema d’arxius.
 
-![imatge](/tasca_03/img/lvm_8.png)
+![imatge](/tasca_03/img/lvm_08.png)
 
 **1-** I ara per muntar un volum lògic parcialment, caldrà utilitzar la comanda **‘mount’** per muntar el volum cap la carpeta creada en l’anterior pas
 
-![imatge](/tasca_03/img/lvm_9.png)
+![imatge](/tasca_03/img/lvm_09.png)
 
 **PD:** Aquesta acció caldria fer-la cada cop al iniciar la máquina.
 
