@@ -74,7 +74,7 @@ Allà haurem de canviar el domini, en el nostre cas, l'activitat ens demana serv
 
 ![imatge](/tasca_04/img/IMATGE_05.png)
 
-Un cop finalitzat aquests pas, introduirem la comanda: ‘hostname -f’ per veure si els canvis s’han desat correctament.
+Un cop finalitzat aquests pas, introduirem la comanda: **‘hostname -f’** per veure si els canvis s’han desat correctament.
 
 ![imatge](/tasca_04/img/IMATGE_06.png)
 
@@ -155,7 +155,7 @@ I després el moure'm amb la comanda:
 ldapadd -D "cn=admin,dc=innovatech,dc=test" -W -f OU_users.ldif
 ```
 
-Finalment comprovarem amb ‘sudo slapcat’ que els ou s’han creat correctament:
+Finalment comprovarem amb **‘sudo slapcat’** que els ou s’han creat correctament:
 
 ![imatge](/tasca_04/img/IMATGE_13.png)
 
@@ -212,11 +212,11 @@ Un cop guardat els canvis, veurem què se'ns tancarà sessió i iniciarem amb la
 
 Seguidament com diu la pràctica haurem de crear 2 usuaris amb el nom de: **‘tech01’** i **‘manager01’** i seguidament crear també 2 grups amb el nom de: **‘tech’** i **‘manager’**. Seguidament a les següents imatges podem veure que per crear els usuaris, haurem d'anar **‘users > crear nuevo usuario’** i per crear grups: **‘groups > crear un nuevo grupo’**.
 
-Seguidament un cop hagiu fet un click a ‘crear un nuevo grupo’ hi crearem els dos grups com indica la tasca: ‘tech i manager’
+Un cop hagiu fet un click a ‘crear un nuevo grupo’ hi crearem els dos grups com indica la tasca: ‘tech i manager’
 
 ![imatge](/tasca_04/img/IMATGE_21.png)
 
-Aquí podem veure que fem la creació del primer usuari, amb el nom de tech01 com indica la pràctica i seguidament amb l’altre usuari: manager01
+Aquí podem veure que fem la creació del primer usuari, amb el nom de tech01 com indica la pràctica i seguidament amb l’altre usuari: **manager01**
 
 ![imatge](/tasca_04/img/IMATGE_22.png)
 ![imatge](/tasca_04/img/IMATGE_23.png)
@@ -233,13 +233,13 @@ Finalment, l'últim pas serà agregar els usuaris als grups creats anteriorment
 ---
 ## 👾 13. Agregar el client al directori:
 
-Seguidament agregarem el client en el directori LDAP, per fer-ho, farem un entorn simulat, on el client estarà en un entorn de Zorin, sobretot, tant en la màquina del client com el servidor de ubuntu, hi posarem Xarxa NAT perquè així és puguin veure entre elles i també amfitrio en el servidor per poguer fer servir el SSH.
+Seguidament agregarem el client en el directori LDAP, per fer-ho, farem un entorn simulat, on el client estarà en un entorn de Zorin, sobretot, tant en la màquina del client com el servidor de ubuntu, hi posarem **Xarxa NAT** perquè així és puguin veure entre elles i també amfitrio en el servidor per poguer fer servir el SSH.
 
 Primer de tot i cop configurada la màquina, entrarem al arxiu: **‘/etc/hosts’** i posarem la ip del adaptador de NAT del servidor, que en el meu cas era **‘10.0.2.4’** com es mostra en la imatge.
 
 ![imatge](/tasca_04/img/IMATGE_27.png)
 
-Seguidament un cop canviat i desat els canvis del arxiu, farem ping amb el server per veure si es veuen entre si, en el meu cas s’han connectat correctament ja que el ping arriva i el retorna correctament.
+Seguidament un cop canviat i desat els canvis del arxiu, farem **ping** amb el server per veure si es veuen entre si, en el meu cas s’han connectat correctament ja que el ping arriva i el retorna correctament.
 
 ![imatge](/tasca_04/img/IMATGE_28.png)
 
@@ -282,7 +282,7 @@ I ens preguntara la conta root del LDAP:
 ---
 ## 🫆 15. Comprovació de connexió:
 
-Seguidament fem una consulta ldap des del client per comprovar si es connecta amb el servidor, podem veure que s’ha connectat amb el servidor correctament ja que apareixen els usuaris que vam crear anterioriorment.
+Continuarem fem una consulta ldap des del client per comprovar si es connecta amb el servidor, podem veure que s’ha connectat amb el servidor correctament ja que apareixen els usuaris que vam crear anterioriorment.
 
 ![imatge](/tasca_04/img/IMATGE_36.png)
 
