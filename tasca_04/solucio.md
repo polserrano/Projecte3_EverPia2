@@ -344,4 +344,5 @@ En conclusió, amb aquesta tasca hem après a instal·lar i configurar un servid
 
 ---
 # Gràcies per la vostra atenció!
+- Podeu tornar a l’[enunciat](/tasca_04/README.md) de la tasca  
 
