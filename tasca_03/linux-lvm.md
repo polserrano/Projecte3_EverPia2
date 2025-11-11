@@ -1,6 +1,6 @@
 # Gestió Flexible de discos (LVM amb Zorin OS)
 
-**Autors:** Pau Constanseu i Pol Serrano  
+**Autors d'aquesta part:** Pau Constanseu i Pol Serrano  
 **Data:** 28/10/2025  
 **Assignatura:** Seguretat Informàtica  
 
