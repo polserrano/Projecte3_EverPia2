@@ -8,6 +8,10 @@
 
 ## 1. Introducció
 
+En aquesta pràctica aprendrem a gestionar volums lògics (LVM) dins d’un sistema Linux mitjançant una màquina virtual configurada amb diversos discos. L’objectiu és entendre com crear i administrar volums físics, grups de volums i volums lògics, així com realitzar tasques com ampliar o reduir espai, crear snapshots i configurar mirroring per garantir la seguretat de les dades.
+
+A través de diferents comandes del sistema, es posarà en pràctica la gestió flexible de l’emmagatzematge, millorant la capacitat d’adaptació i manteniment dels recursos dins d’un entorn Linux.
+
 ---
 
 ## 2. Índex
