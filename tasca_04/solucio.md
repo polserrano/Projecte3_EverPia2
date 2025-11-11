@@ -229,6 +229,7 @@ Finalment, l'últim pas serà agregar els usuaris als grups creats anteriorment
 
 ![imatge](/tasca_04/img/IMATGE_25.png)
 ![imatge](/tasca_04/img/IMATGE_26.png)
+
 ---
 ## 👾 13. Agregar el client al directori:
 
@@ -236,15 +237,15 @@ Seguidament agregarem el client en el directori LDAP, per fer-ho, farem un entor
 
 Primer de tot i cop configurada la màquina, entrarem al arxiu: **‘/etc/hosts’** i posarem la ip del adaptador de NAT del servidor, que en el meu cas era **‘10.0.2.4’** com es mostra en la imatge.
 
-IMATGE 27
+![imatge](/tasca_04/img/IMATGE_27.png)
 
 Seguidament un cop canviat i desat els canvis del arxiu, farem ping amb el server per veure si es veuen entre si, en el meu cas s’han connectat correctament ja que el ping arriva i el retorna correctament.
 
-IMATGE 28
+![imatge](/tasca_04/img/IMATGE_28.png)
 
 Finalment farem un **‘hostname -f’** per veure si el nom del nostre host s’ha configurat i canviat correctament.
 
-IMATGE 29
+![imatge](/tasca_04/img/IMATGE_29.png)
 
 ---
 ## ⌨️ 14. Configuració dels mòduls:
@@ -256,34 +257,35 @@ apt install libnss-ldap libpam-ldap ldap-utils nscd -y
 ```
 On primer de tot introduirem el resource identifier.
 
-IMATGE 30
+![imatge](/tasca_04/img/IMATGE_30.png)
 
 I després el disting names per buscar a la base de dades:
 
-IMATGE 31
+![imatge](/tasca_04/img/IMATGE_31.png)
 
 Després seleccionarem la versió que volem usar de LDAP, en el nostra cas utilitzarem la versió 3:
 
-IMATGE 32
+![imatge](/tasca_04/img/IMATGE_32.png)
 
 Seguidament ens preguntarà si volem fer un root local en la base de dades de l'usuari de admin:
 
-IMATGE 33
+![imatge](/tasca_04/img/IMATGE_33.png)
 
 Ara ens dirà que si cada cop que volem entrar a la base de dades ens pregunti per el usuari i password.
 
-IMATGE 34
+![imatge](/tasca_04/img/IMATGE_34.png)
 
 I ens preguntara la conta root del LDAP:
 
-IMATGE 35
+![imatge](/tasca_04/img/IMATGE_35.png)
 
 ---
 ## 🫆 15. Comprovació de connexió:
 
 Seguidament fem una consulta ldap des del client per comprovar si es connecta amb el servidor, podem veure que s’ha connectat amb el servidor correctament ja que apareixen els usuaris que vam crear anterioriorment.
 
-IMATGE 36
+![imatge](/tasca_04/img/IMATGE_36.png)
+
 ---
 ## 🔋 16. Configuracions:
 
@@ -295,7 +297,7 @@ nano /etc/nsswitch.conf
 
 Per indicar que s’usarà ldap per usuaris i grups:
 
-IMATGE 37
+IMATGE ![imatge](/tasca_04/img/IMATGE_37.png)
 
 Ara editarem: 
 
@@ -304,7 +306,7 @@ Ara editarem:
 ```
 i eliminem a la línia el terme: **‘use_authtok’**
 
-IMATGE 38
+![imatge](/tasca_04/img/IMATGE_38.png)
 
 Seguidament entrem al arxiu: 
 
@@ -314,22 +316,27 @@ Seguidament entrem al arxiu:
 
 i afegim la línia indicada per poder crear els perfils.
 
-IMATGE 39
+![imatge](/tasca_04/img/IMATGE_39.png)
 
 Un cop fet aquestes configuracions, reiniciem el servei: **‘systemctl restart nscd’** i comprovem que veiem els usuaris LDAP amb la comanda: **‘getent passwd | tail’**
 
-IMATGE 40
+![imatge](/tasca_04/img/IMATGE_40.png)
 
 Per finalitzar, editem l’arxiu indicat, per permetre l’inici de sessió gràfica:
 
-IMATGE 41
+![imatge](/tasca_04/img/IMATGE_41.png)
 
 ---
 ## ✅ 17. Comprovacions:
 
 Seguidament reiniciem el client i provem a iniciar sessió amb un dels usuaris del directori: **‘tech01’** o **‘manager01’**, i si ens demana contrasenya hi posarem la que vam crear quan vam crear els usuaris desde el OpenLDAP:
 
-IMATGE 42
+![imatge](/tasca_04/img/IMATGE_42.png)
+
+Finalment, un cop iniciem sessió, comprovem com se li ha creat la carpeta personal i comprovem l’usuari, ho farem amb la comanda: **‘id’**
+
+![imatge](/tasca_04/img/IMATGE_43.png)
+
 ---
 ## ♣️ 18. Conclusió
 
