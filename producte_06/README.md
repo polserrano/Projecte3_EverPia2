@@ -10,4 +10,4 @@ Tal com s’indicava en la tasca, el vídeo ha estat penjat en una plataforma ad
 
 ## Documents:
 
-- Enllaç del [vídeo](/)
+- Enllaç del [vídeo](/video.md)
