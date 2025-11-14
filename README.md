@@ -2,7 +2,9 @@
 
 ## 🌍 Context
 Després de l’èxit d’EverPia 1, la consultora ha crescut i ara gestiona serveis crítics 24/7, amb més clients… però amb el mateix pressupost.  
+
 Els tècnics júnior (vosaltres) sou ara responsables de mantenir viva la infraestructura mentre tot pot fallar en qualsevol moment.  
+
 És una **simulació realista** del dia a dia dins d’una empresa IT: caos, incidències, tickets i documentació constant.
 
 ---
