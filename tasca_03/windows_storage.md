@@ -25,11 +25,11 @@
 
 ---
 
-**3. Configuració inicial:
+**3.** Configuració inicial:
 
 ---
 
-** Efecte mirall doble: 
+**4.** Efecte mirall doble: 
 
 ---
 
